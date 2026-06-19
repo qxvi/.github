@@ -1,6 +1,7 @@
 {
   "object_type": "QXVI_LIVE_REPOSITORY_REGISTRY",
-  "generated_at": "2026-06-19T21:13:56+00:00",
+  "version": "0.3.0",
+  "generated_at": "2026-06-19T21:19:32+00:00",
   "org": "qxvi",
   "public_only": true,
   "repo_count": 2,
@@ -13,7 +14,7 @@
       "name": ".github",
       "nameWithOwner": "qxvi/.github",
       "url": "https://github.com/qxvi/.github",
-      "description": "qxvi public boundary interface profile and control surface.",
+      "description": "qxvi live public boundary interface profile, surface registry, and control index.",
       "homepageUrl": "https://qxvi.github.io/BOUNDARYCAM",
       "visibility": "PUBLIC",
       "isPrivate": false,
@@ -21,8 +22,8 @@
       "isFork": false,
       "defaultBranch": "main",
       "createdAt": "2026-06-19T21:06:50Z",
-      "updatedAt": "2026-06-19T21:07:43Z",
-      "pushedAt": "2026-06-19T21:07:47Z",
+      "updatedAt": "2026-06-19T21:14:04Z",
+      "pushedAt": "2026-06-19T21:14:16Z",
       "topics": [],
       "pages": {
         "enabled": false,
@@ -56,7 +57,7 @@
       "isFork": false,
       "defaultBranch": "main",
       "createdAt": "2026-06-18T21:17:43Z",
-      "updatedAt": "2026-06-19T21:03:25Z",
+      "updatedAt": "2026-06-19T21:13:59Z",
       "pushedAt": "2026-06-19T21:03:48Z",
       "topics": [],
       "pages": {

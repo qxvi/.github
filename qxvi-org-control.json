@@ -1,7 +1,8 @@
 {
   "object_type": "QXVI_ORG_PUBLIC_CONTROL",
-  "state": "QXVI_PUBLIC_BOUNDARY_INTERFACE_INDEXED",
-  "generated_at": "2026-06-19T21:13:56+00:00",
+  "version": "0.3.0",
+  "state": "QXVI_ORG_CONTROL_STACK_COMPLETE",
+  "generated_at": "2026-06-19T21:19:32+00:00",
   "public_only": true,
   "private_remaining": 0,
   "primary_surface": "BOUNDARYCAM",
@@ -12,6 +13,7 @@
   "pages_enabled_count": 1,
   "release_surface_count": 0,
   "workflow_surface_count": 3,
+  "completion_object": "qxvi-org-completion.json",
   "surfaces": [
     {
       "id": "QXVI-SURF-PRIMARY",

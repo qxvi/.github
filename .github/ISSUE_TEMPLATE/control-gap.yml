@@ -1,0 +1,12 @@
+name: Control gap
+description: Report a missing or unclear qxvi control object
+title: "[CONTROL GAP] "
+labels: ["control-gap"]
+body:
+  - type: textarea
+    id: gap
+    attributes:
+      label: Gap
+      description: What public control object, manifest, schema, or doc is missing?
+    validations:
+      required: true

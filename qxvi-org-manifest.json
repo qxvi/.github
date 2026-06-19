@@ -1,7 +1,7 @@
 {
   "object_type": "QXVI_ORG_PUBLIC_MANIFEST",
-  "version": "0.2.0",
-  "generated_at": "2026-06-19T21:13:56+00:00",
+  "version": "0.3.0",
+  "generated_at": "2026-06-19T21:19:32+00:00",
   "org": "https://github.com/qxvi",
   "repositories_url": "https://github.com/orgs/qxvi/repositories",
   "repositories": [
@@ -10,11 +10,12 @@
   ],
   "primary_surface": "https://qxvi.github.io/BOUNDARYCAM",
   "primary_release": "https://github.com/qxvi/BOUNDARYCAM/releases/tag/boundarycam-v0.2.0-control-stack",
-  "profile_release_tag": "qxvi-org-profile-v0.2.0-live-surface-registry",
-  "state": "QXVI_PUBLIC_BOUNDARY_INTERFACE_INDEXED",
+  "profile_release_tag": "qxvi-org-profile-v0.3.0-org-completion",
+  "state": "QXVI_ORG_CONTROL_STACK_COMPLETE",
   "public_only": true,
   "private_remaining": 0,
   "repo_count": 2,
   "surface_count": 3,
-  "primary_question": "What crossed the boundary?"
+  "primary_question": "What crossed the boundary?",
+  "completion_object": "https://github.com/qxvi/.github/blob/main/qxvi-org-completion.json"
 }

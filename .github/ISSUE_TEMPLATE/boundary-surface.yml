@@ -1,0 +1,19 @@
+name: Boundary surface request
+description: Request or define a qxvi public boundary surface
+title: "[BOUNDARY SURFACE] "
+labels: ["boundary-surface"]
+body:
+  - type: textarea
+    id: surface
+    attributes:
+      label: Surface
+      description: What boundary surface should exist?
+    validations:
+      required: true
+  - type: textarea
+    id: boundary
+    attributes:
+      label: Boundary question
+      description: What crossed the boundary?
+    validations:
+      required: true

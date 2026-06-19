@@ -4,6 +4,7 @@
   "type": "object",
   "required": [
     "object_type",
+    "version",
     "state",
     "public_only",
     "private_remaining",
@@ -12,21 +13,52 @@
     "org_role",
     "repo_count",
     "surface_count",
+    "completion_object",
     "surfaces",
     "stack_relation"
   ],
   "properties": {
-    "object_type": { "type": "string" },
-    "state": { "type": "string" },
-    "generated_at": { "type": "string" },
-    "public_only": { "type": "boolean" },
-    "private_remaining": { "type": "integer" },
-    "primary_surface": { "type": "string" },
-    "primary_question": { "type": "string" },
-    "org_role": { "type": "string" },
-    "repo_count": { "type": "integer" },
-    "surface_count": { "type": "integer" },
-    "surfaces": { "type": "array" },
-    "stack_relation": { "type": "object" }
+    "object_type": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "state": {
+      "type": "string"
+    },
+    "generated_at": {
+      "type": "string"
+    },
+    "public_only": {
+      "type": "boolean"
+    },
+    "private_remaining": {
+      "type": "integer"
+    },
+    "primary_surface": {
+      "type": "string"
+    },
+    "primary_question": {
+      "type": "string"
+    },
+    "org_role": {
+      "type": "string"
+    },
+    "repo_count": {
+      "type": "integer"
+    },
+    "surface_count": {
+      "type": "integer"
+    },
+    "completion_object": {
+      "type": "string"
+    },
+    "surfaces": {
+      "type": "array"
+    },
+    "stack_relation": {
+      "type": "object"
+    }
   }
 }

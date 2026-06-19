@@ -1,6 +1,7 @@
 {
   "object_type": "QXVI_SURFACE_INDEX",
-  "generated_at": "2026-06-19T21:13:56+00:00",
+  "version": "0.3.0",
+  "generated_at": "2026-06-19T21:19:32+00:00",
   "public_only": true,
   "surface_count": 3,
   "surfaces": [
