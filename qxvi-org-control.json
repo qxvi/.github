@@ -1,0 +1,32 @@
+{
+"object_type": "QXVI_ORG_PUBLIC_CONTROL",
+"state": "QXVI_PUBLIC_BOUNDARY_INTERFACE_OPEN",
+"public_only": true,
+"private_remaining": 0,
+"primary_surface": "BOUNDARYCAM",
+"primary_question": "What crossed the boundary?",
+"org_role": "visual and public interface layer",
+"surfaces": [
+{
+"id": "QXVI-SURF-001",
+"name": "BOUNDARYCAM",
+"repo": "[https://github.com/qxvi/BOUNDARYCAM](https://github.com/qxvi/BOUNDARYCAM)",
+"pages": "[https://qxvi.github.io/BOUNDARYCAM](https://qxvi.github.io/BOUNDARYCAM)",
+"manifest": "[https://qxvi.github.io/BOUNDARYCAM/boundarycam-manifest.json](https://qxvi.github.io/BOUNDARYCAM/boundarycam-manifest.json)",
+"role": "public machine-action boundary camera"
+},
+{
+"id": "QXVI-SURF-002",
+"name": "qxvi org profile",
+"repo": "[https://github.com/qxvi/.github](https://github.com/qxvi/.github)",
+"role": "organization-level public entry surface"
+}
+],
+"stack_relation": {
+"qxvi": "visual and public interface layer",
+"BOUNDARYCAM": "public audience and inspection surface",
+"INVOCORDER": "machine-action evidence recorder",
+"VERIFRAX": "verification and completion perimeter",
+"SPEEDKIT": "public registry and control engine"
+}
+}

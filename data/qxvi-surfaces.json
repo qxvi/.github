@@ -1,0 +1,34 @@
+{
+"object_type": "QXVI_SURFACE_INDEX",
+"public_only": true,
+"surfaces": [
+{
+"id": "QXVI-001",
+"type": "GITHUB_ORG",
+"name": "qxvi",
+"url": "[https://github.com/qxvi](https://github.com/qxvi)",
+"role": "public boundary interface organization"
+},
+{
+"id": "QXVI-002",
+"type": "GITHUB_REPOSITORY",
+"name": "BOUNDARYCAM",
+"url": "[https://github.com/qxvi/BOUNDARYCAM](https://github.com/qxvi/BOUNDARYCAM)",
+"role": "machine-action boundary camera repository"
+},
+{
+"id": "QXVI-003",
+"type": "GITHUB_PAGES",
+"name": "BOUNDARYCAM public surface",
+"url": "[https://qxvi.github.io/BOUNDARYCAM](https://qxvi.github.io/BOUNDARYCAM)",
+"role": "public product/control surface"
+},
+{
+"id": "QXVI-004",
+"type": "PUBLIC_MANIFEST",
+"name": "BOUNDARYCAM manifest",
+"url": "[https://qxvi.github.io/BOUNDARYCAM/boundarycam-manifest.json](https://qxvi.github.io/BOUNDARYCAM/boundarycam-manifest.json)",
+"role": "machine-readable public manifest"
+}
+]
+}

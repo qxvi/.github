@@ -1,0 +1,27 @@
+{
+"$schema": "[https://json-schema.org/draft/2020-12/schema](https://json-schema.org/draft/2020-12/schema)",
+"title": "qxvi Organization Public Control",
+"type": "object",
+"required": [
+"object_type",
+"state",
+"public_only",
+"private_remaining",
+"primary_surface",
+"primary_question",
+"org_role",
+"surfaces",
+"stack_relation"
+],
+"properties": {
+"object_type": { "type": "string" },
+"state": { "type": "string" },
+"public_only": { "type": "boolean" },
+"private_remaining": { "type": "integer" },
+"primary_surface": { "type": "string" },
+"primary_question": { "type": "string" },
+"org_role": { "type": "string" },
+"surfaces": { "type": "array" },
+"stack_relation": { "type": "object" }
+}
+}

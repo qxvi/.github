@@ -1,0 +1,16 @@
+{
+"object_type": "QXVI_ORG_PUBLIC_MANIFEST",
+"version": "0.1.0",
+"org": "[https://github.com/qxvi](https://github.com/qxvi)",
+"repositories": [
+"[https://github.com/qxvi/BOUNDARYCAM](https://github.com/qxvi/BOUNDARYCAM)",
+"[https://github.com/qxvi/.github](https://github.com/qxvi/.github)"
+],
+"primary_surface": "[https://qxvi.github.io/BOUNDARYCAM](https://qxvi.github.io/BOUNDARYCAM)",
+"primary_release": "[https://github.com/qxvi/BOUNDARYCAM/releases/tag/boundarycam-v0.2.0-control-stack](https://github.com/qxvi/BOUNDARYCAM/releases/tag/boundarycam-v0.2.0-control-stack)",
+"profile_release_tag": "qxvi-org-profile-v0.1.0-boundary-interface",
+"state": "QXVI_PUBLIC_BOUNDARY_INTERFACE_OPEN",
+"public_only": true,
+"private_remaining": 0,
+"primary_question": "What crossed the boundary?"
+}
