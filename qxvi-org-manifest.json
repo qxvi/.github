@@ -1,7 +1,7 @@
 {
   "object_type": "QXVI_ORG_PUBLIC_MANIFEST",
-  "version": "0.3.0",
-  "generated_at": "2026-06-19T21:19:32+00:00",
+  "version": "0.4.0",
+  "generated_at": "2026-06-19T21:39:00+00:00",
   "org": "https://github.com/qxvi",
   "repositories_url": "https://github.com/orgs/qxvi/repositories",
   "repositories": [
@@ -9,13 +9,15 @@
     "https://github.com/qxvi/BOUNDARYCAM"
   ],
   "primary_surface": "https://qxvi.github.io/BOUNDARYCAM",
-  "primary_release": "https://github.com/qxvi/BOUNDARYCAM/releases/tag/boundarycam-v0.2.0-control-stack",
-  "profile_release_tag": "qxvi-org-profile-v0.3.0-org-completion",
-  "state": "QXVI_ORG_CONTROL_STACK_COMPLETE",
+  "primary_release": "https://github.com/qxvi/BOUNDARYCAM/releases/tag/boundarycam-v0.3.0-product-control-completion",
+  "profile_release_tag": "qxvi-org-profile-v0.4.0-boundarycam-completion-propagated",
+  "state": "QXVI_BOUNDARYCAM_COMPLETION_PROPAGATED",
   "public_only": true,
   "private_remaining": 0,
   "repo_count": 2,
   "surface_count": 3,
   "primary_question": "What crossed the boundary?",
-  "completion_object": "https://github.com/qxvi/.github/blob/main/qxvi-org-completion.json"
+  "completion_object": "https://github.com/qxvi/.github/blob/main/qxvi-org-completion.json",
+  "boundarycam_completion": "https://qxvi.github.io/BOUNDARYCAM/boundarycam-completion.json",
+  "completion_propagation_object": "qxvi-boundarycam-completion-propagation.json"
 }

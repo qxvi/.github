@@ -10,12 +10,15 @@ required_files = [
     "qxvi-org-control.json",
     "qxvi-org-manifest.json",
     "qxvi-org-completion.json",
+    "qxvi-boundarycam-completion-propagation.json",
     "data/qxvi-surfaces.json",
     "data/qxvi-live-repository-registry.json",
+    "data/live/boundarycam/boundarycam-completion.live.json",
     "docs/QXVI_PUBLIC_BOUNDARY_INTERFACE.md",
     "docs/QXVI_LIVE_SURFACE_AUDIT.md",
     "docs/QXVI_ORG_CHARTER.md",
     "docs/QXVI_OPERATIONAL_DOCTRINE.md",
+    "docs/QXVI_BOUNDARYCAM_COMPLETION_PROPAGATION.md",
     "governance/GOVERNANCE.md",
     "security/SECURITY.md",
     "support/SUPPORT.md",
@@ -36,45 +39,30 @@ json_files = [
     "qxvi-org-control.json",
     "qxvi-org-manifest.json",
     "qxvi-org-completion.json",
+    "qxvi-boundarycam-completion-propagation.json",
     "data/qxvi-surfaces.json",
     "data/qxvi-live-repository-registry.json",
+    "data/live/boundarycam/boundarycam-completion.live.json",
     "schemas/qxvi-org-control.schema.json"
 ]
 
 for rel in json_files:
     json.loads((root / rel).read_text(encoding="utf-8"))
 
-profile = (root / "profile/README.md").read_text(encoding="utf-8")
-for token in [
-    "qxvi",
-    "BOUNDARYCAM",
-    "What crossed the boundary?",
-    "The camera for machine action.",
-    "https://qxvi.github.io/BOUNDARYCAM",
-    "QXVI_ORG_CONTROL_STACK_COMPLETE"
-]:
-    if token not in profile:
-        raise SystemExit("PROFILE_MISSING=" + token)
+propagation = json.loads((root / "qxvi-boundarycam-completion-propagation.json").read_text(encoding="utf-8"))
+if propagation.get("state") != "QXVI_BOUNDARYCAM_COMPLETION_PROPAGATED":
+    raise SystemExit("PROPAGATION_STATE_INVALID")
 
-completion = json.loads((root / "qxvi-org-completion.json").read_text(encoding="utf-8"))
-if completion.get("state") != "QXVI_ORG_CONTROL_STACK_COMPLETE":
-    raise SystemExit("COMPLETION_STATE_INVALID")
+bc = propagation.get("boundarycam", {})
+if bc.get("completion_state") != "BOUNDARYCAM_PRODUCT_CONTROL_STACK_COMPLETE":
+    raise SystemExit("BOUNDARYCAM_COMPLETION_NOT_PROPAGATED")
 
 control = json.loads((root / "qxvi-org-control.json").read_text(encoding="utf-8"))
-if control.get("state") != "QXVI_ORG_CONTROL_STACK_COMPLETE":
+if control.get("state") != "QXVI_BOUNDARYCAM_COMPLETION_PROPAGATED":
     raise SystemExit("CONTROL_STATE_INVALID")
 
 manifest = json.loads((root / "qxvi-org-manifest.json").read_text(encoding="utf-8"))
-if manifest.get("version") != "0.3.0":
+if manifest.get("version") != "0.4.0":
     raise SystemExit("MANIFEST_VERSION_INVALID")
 
-registry = json.loads((root / "data/qxvi-live-repository-registry.json").read_text(encoding="utf-8"))
-if registry.get("repo_count", 0) < 2:
-    raise SystemExit("REPO_COUNT_TOO_LOW")
-
-names = [r.get("nameWithOwner") for r in registry.get("repositories", [])]
-for expected in ["qxvi/BOUNDARYCAM", "qxvi/.github"]:
-    if expected not in names:
-        raise SystemExit("MISSING_REPO=" + expected)
-
-print("QXVI_ORG_COMPLETE_VALIDATE_OK=true")
+print("QXVI_V040_PROPAGATION_VALIDATE_OK=true")

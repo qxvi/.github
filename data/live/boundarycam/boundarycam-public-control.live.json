@@ -1,0 +1,35 @@
+{
+    "object_type": "BOUNDARYCAM_PUBLIC_CONTROL",
+    "version": "0.3.0",
+    "state": "BOUNDARYCAM_PRODUCT_CONTROL_STACK_COMPLETE",
+    "generated_at": "2026-06-19T21:33:17+00:00",
+    "product": "BOUNDARYCAM",
+    "public_only": true,
+    "private_remaining": 0,
+    "primary_question": "What crossed the boundary?",
+    "surface_role": "public machine-action boundary camera",
+    "admissibility_boundary": {
+        "can_show": [
+            "public boundary frame structure",
+            "public capture route",
+            "public frame examples",
+            "public schema",
+            "public manifest",
+            "public control state"
+        ],
+        "cannot_claim": [
+            "private evidence possession",
+            "final legal proof",
+            "external system completion beyond declared surface",
+            "runtime enforcement unless wired to a runtime system"
+        ]
+    },
+    "stack_relation": {
+        "qxvi": "visual and public interface layer",
+        "BOUNDARYCAM": "public audience and inspection surface",
+        "INVOCORDER": "machine-action evidence recorder",
+        "VERIFRAX": "verification and completion perimeter",
+        "SPEEDKIT": "public registry and control engine"
+    },
+    "completion_object": "boundarycam-completion.json"
+}

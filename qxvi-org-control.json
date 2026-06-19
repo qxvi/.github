@@ -1,8 +1,8 @@
 {
   "object_type": "QXVI_ORG_PUBLIC_CONTROL",
-  "version": "0.3.0",
-  "state": "QXVI_ORG_CONTROL_STACK_COMPLETE",
-  "generated_at": "2026-06-19T21:19:32+00:00",
+  "version": "0.4.0",
+  "state": "QXVI_BOUNDARYCAM_COMPLETION_PROPAGATED",
+  "generated_at": "2026-06-19T21:39:00+00:00",
   "public_only": true,
   "private_remaining": 0,
   "primary_surface": "BOUNDARYCAM",
@@ -36,5 +36,19 @@
     "INVOCORDER": "machine-action evidence recorder",
     "VERIFRAX": "verification and completion perimeter",
     "SPEEDKIT": "public registry and control engine"
-  }
+  },
+  "boundarycam_completion": {
+    "repo": "https://github.com/qxvi/BOUNDARYCAM",
+    "pages": "https://qxvi.github.io/BOUNDARYCAM",
+    "manifest": "https://qxvi.github.io/BOUNDARYCAM/boundarycam-manifest.json",
+    "public_control": "https://qxvi.github.io/BOUNDARYCAM/public-control.json",
+    "completion": "https://qxvi.github.io/BOUNDARYCAM/boundarycam-completion.json",
+    "completion_state": "BOUNDARYCAM_PRODUCT_CONTROL_STACK_COMPLETE",
+    "completion_version": "0.3.0",
+    "release_tag": "boundarycam-v0.3.0-product-control-completion",
+    "release": "https://github.com/qxvi/BOUNDARYCAM/releases/tag/boundarycam-v0.3.0-product-control-completion",
+    "verify_conclusion": "success",
+    "pages_conclusion": "success"
+  },
+  "completion_propagation_object": "qxvi-boundarycam-completion-propagation.json"
 }
