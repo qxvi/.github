@@ -1,13 +1,10 @@
-
 # qxvi
 
 **Public boundary interface layer.**
 
-Software no longer only produces output. It calls tools, submits forms, sends messages, modifies files, triggers workflows, approves records, deletes objects, publishes artifacts, and changes state.
+qxvi exposes visual and inspectable public surfaces for machine-action boundary control.
 
-When that happens, the question is not only what the system produced.
-
-The question is:
+The central question:
 
 ```text
 What crossed the boundary?
@@ -23,11 +20,24 @@ BOUNDARYCAM captures machine-action Boundary Frames: actor, action, target, auth
 
 If it touched the world, it needs a boundary frame.
 
-* Public surface: [https://qxvi.github.io/BOUNDARYCAM](https://qxvi.github.io/BOUNDARYCAM)
-* Repository: [https://github.com/qxvi/BOUNDARYCAM](https://github.com/qxvi/BOUNDARYCAM)
-* Manifest: [https://qxvi.github.io/BOUNDARYCAM/boundarycam-manifest.json](https://qxvi.github.io/BOUNDARYCAM/boundarycam-manifest.json)
-* Capture: [https://qxvi.github.io/BOUNDARYCAM/pages/capture.html](https://qxvi.github.io/BOUNDARYCAM/pages/capture.html)
-* Frames: [https://qxvi.github.io/BOUNDARYCAM/pages/frames.html](https://qxvi.github.io/BOUNDARYCAM/pages/frames.html)
+- Public surface: https://qxvi.github.io/BOUNDARYCAM
+- Repository: https://github.com/qxvi/BOUNDARYCAM
+- Manifest: https://qxvi.github.io/BOUNDARYCAM/boundarycam-manifest.json
+- Capture: https://qxvi.github.io/BOUNDARYCAM/pages/capture.html
+- Frames: https://qxvi.github.io/BOUNDARYCAM/pages/frames.html
+
+## Live qxvi registry
+
+- Public repositories: 2
+- Public surfaces indexed: 3
+- Pages-enabled repositories: 1
+- Release surfaces: 0
+- Workflow surfaces: 3
+
+## Repository surface list
+
+- qxvi/.github — releases: 0 — workflows: 1 — latest: none
+- qxvi/BOUNDARYCAM — releases: 0 — workflows: 2 — latest: none
 
 ## Stack role
 

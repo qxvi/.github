@@ -14,6 +14,11 @@ Core question:
 
 ```text
 What crossed the boundary?
-````
+```
 
-qxvi is not a generic demo namespace. It is the visual/interface layer for making machine actions publicly legible before trust claims begin.
+## Live control objects
+
+- qxvi-org-control.json
+- qxvi-org-manifest.json
+- data/qxvi-live-repository-registry.json
+- data/qxvi-surfaces.json

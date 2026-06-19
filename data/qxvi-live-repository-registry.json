@@ -1,0 +1,88 @@
+{
+  "object_type": "QXVI_LIVE_REPOSITORY_REGISTRY",
+  "generated_at": "2026-06-19T21:13:56+00:00",
+  "org": "qxvi",
+  "public_only": true,
+  "repo_count": 2,
+  "pages_enabled_count": 1,
+  "release_surface_count": 0,
+  "workflow_surface_count": 3,
+  "repositories": [
+    {
+      "id": "QXVI-REPO-001",
+      "name": ".github",
+      "nameWithOwner": "qxvi/.github",
+      "url": "https://github.com/qxvi/.github",
+      "description": "qxvi public boundary interface profile and control surface.",
+      "homepageUrl": "https://qxvi.github.io/BOUNDARYCAM",
+      "visibility": "PUBLIC",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "defaultBranch": "main",
+      "createdAt": "2026-06-19T21:06:50Z",
+      "updatedAt": "2026-06-19T21:07:43Z",
+      "pushedAt": "2026-06-19T21:07:47Z",
+      "topics": [],
+      "pages": {
+        "enabled": false,
+        "html_url": null,
+        "build_type": null,
+        "https_enforced": null
+      },
+      "release_count": 0,
+      "latest_release": null,
+      "workflow_count": 1,
+      "workflows": [
+        {
+          "id": 299089540,
+          "name": "verify",
+          "path": ".github/workflows/verify.yml",
+          "state": "active"
+        }
+      ],
+      "branch_count": 1
+    },
+    {
+      "id": "QXVI-REPO-002",
+      "name": "BOUNDARYCAM",
+      "nameWithOwner": "qxvi/BOUNDARYCAM",
+      "url": "https://github.com/qxvi/BOUNDARYCAM",
+      "description": "The camera for machine action. Capture what crossed the boundary when agents, workflows, and autonomous systems act.",
+      "homepageUrl": "https://qxvi.github.io/BOUNDARYCAM",
+      "visibility": "PUBLIC",
+      "isPrivate": false,
+      "isArchived": false,
+      "isFork": false,
+      "defaultBranch": "main",
+      "createdAt": "2026-06-18T21:17:43Z",
+      "updatedAt": "2026-06-19T21:03:25Z",
+      "pushedAt": "2026-06-19T21:03:48Z",
+      "topics": [],
+      "pages": {
+        "enabled": true,
+        "html_url": "https://qxvi.github.io/BOUNDARYCAM/",
+        "build_type": "workflow",
+        "https_enforced": true
+      },
+      "release_count": 0,
+      "latest_release": null,
+      "workflow_count": 2,
+      "workflows": [
+        {
+          "id": 298530173,
+          "name": "pages",
+          "path": ".github/workflows/pages.yml",
+          "state": "active"
+        },
+        {
+          "id": 299087795,
+          "name": "verify",
+          "path": ".github/workflows/verify.yml",
+          "state": "active"
+        }
+      ],
+      "branch_count": 1
+    }
+  ]
+}
