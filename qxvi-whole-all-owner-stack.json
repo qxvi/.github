@@ -1,0 +1,59 @@
+{
+  "object_type": "QXVI_WHOLE_ALL_OWNER_STACK",
+  "version": "0.7.0",
+  "state": "QXVI_WHOLE_ALL_OWNER_STACK_REGISTERED",
+  "generated_at": "2026-06-20T06:12:11+00:00",
+  "public_only": true,
+  "org": "https://github.com/qxvi",
+  "profile_repo": "https://github.com/qxvi/.github",
+  "boundarycam": "https://github.com/qxvi/BOUNDARYCAM",
+  "owner_register": "midiakiasat-visible-owner-register.json",
+  "register_id": "QXVI-OWNER-REGISTER-A833312822676D65",
+  "register_hash": "a833312822676d652b1f3cf49ecf8e158e320a7650b57cfd70253adfa1a20b9b",
+  "owner_count": 16,
+  "total_visible_repos": 105,
+  "classification": {
+    "main_constitutional_stack": "Verifrax",
+    "vertical_commercial_product": "VATFix",
+    "evidence_recorder_product": "INVOCORDER",
+    "cinematic_jurisdiction_family": [
+      "CINEMATICUM",
+      "kaaffilm"
+    ],
+    "research_narrative_evidence_org": "ANTIMATTERIUM",
+    "truth_platform_org": "TRUTHFRAMER",
+    "modular_micro_stack": "qvra",
+    "boundary_camera_control_surface": "qxvi",
+    "small_utility_orgs": [
+      "qxvo",
+      "qzro"
+    ],
+    "security_bounty_lab": "aikido-bounty-lab",
+    "namespace_holdings": [
+      "qvro",
+      "qvru",
+      "qxra",
+      "qzru"
+    ]
+  },
+  "control_issues": [
+    {
+      "owner": "Verifrax",
+      "issue": "Visible connector/gh count may differ from doctrine count; SPEEDKIT or another repo must be typed as governed/support/historical, or the official count must be updated."
+    },
+    {
+      "owner": "CINEMATICUM + kaaffilm",
+      "issue": "CINEMATICUM exists as a dedicated org and as kaaffilm/CINEMATICUM; one must be declared primary, mirror, historical, or jurisdiction/sub-jurisdiction."
+    }
+  ],
+  "closed_path": [
+    "visible owner repo register",
+    "owner classification",
+    "repo count map",
+    "control issue identification",
+    "whole-stack owner register hash",
+    "org control propagation",
+    "CI validation",
+    "release receipt"
+  ]
+}

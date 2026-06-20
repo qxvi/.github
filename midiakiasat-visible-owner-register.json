@@ -1,0 +1,2492 @@
+{
+  "object_type": "QXVI_VISIBLE_OWNER_REGISTER",
+  "version": "0.7.0",
+  "state": "QXVI_WHOLE_ALL_OWNER_STACK_REGISTERED",
+  "generated_at": "2026-06-20T06:12:11+00:00",
+  "public_only": true,
+  "private_remaining_unknown": true,
+  "scope_note": "Visible GitHub register for owner orgs accessible through current gh authentication. It may not include private/local repos outside this access path.",
+  "primary_question": "What crossed the boundary?",
+  "owner_count": 16,
+  "total_visible_repos": 105,
+  "owners": [
+    {
+      "owner": "Verifrax",
+      "visible_repo_count": 37,
+      "role": "constitutional verification / evidence / authority / execution / replay perimeter",
+      "classification": "MAIN_CONSTITUTIONAL_STACK",
+      "source": "data/live/owners/verifrax.repos.json",
+      "repos": [
+        {
+          "name": ".github",
+          "nameWithOwner": "Verifrax/.github",
+          "url": "https://github.com/Verifrax/.github",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Canonical GitHub governance, community defaults, and organization profile surface for Verifrax repositories.",
+          "createdAt": "2025-12-27T22:20:32Z",
+          "updatedAt": "2026-05-06T15:50:59Z",
+          "primaryLanguage": null,
+          "repositoryTopics": [
+            {
+              "name": "attestation"
+            },
+            {
+              "name": "governance"
+            },
+            {
+              "name": "policy"
+            },
+            {
+              "name": "provenance"
+            },
+            {
+              "name": "security"
+            },
+            {
+              "name": "supply-chain"
+            },
+            {
+              "name": "verifrax"
+            },
+            {
+              "name": "community"
+            }
+          ]
+        },
+        {
+          "name": "ADMISSORIUM",
+          "nameWithOwner": "Verifrax/ADMISSORIUM",
+          "url": "https://github.com/Verifrax/ADMISSORIUM",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Admissibility enforcement implementation for the VERIFRAX constitutional perimeter.",
+          "createdAt": "2026-04-25T15:00:09Z",
+          "updatedAt": "2026-05-23T09:52:03Z",
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "repositoryTopics": []
+        },
+        {
+          "name": "ANAGNORIUM",
+          "nameWithOwner": "Verifrax/ANAGNORIUM",
+          "url": "https://github.com/Verifrax/ANAGNORIUM",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-04-11T18:45:00Z",
+          "updatedAt": "2026-05-06T15:43:15Z",
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "repositoryTopics": []
+        },
+        {
+          "name": "apply",
+          "nameWithOwner": "Verifrax/apply",
+          "url": "https://github.com/Verifrax/apply",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Application and contributor intake surface for Verifrax: structured submissions, roles, and growth pipeline.",
+          "createdAt": "2026-03-26T19:12:54Z",
+          "updatedAt": "2026-05-20T18:05:01Z",
+          "primaryLanguage": {
+            "name": "HTML"
+          },
+          "repositoryTopics": [
+            {
+              "name": "apply"
+            },
+            {
+              "name": "contributors"
+            },
+            {
+              "name": "growth"
+            },
+            {
+              "name": "intake"
+            },
+            {
+              "name": "pipeline"
+            },
+            {
+              "name": "recruiting"
+            },
+            {
+              "name": "roles"
+            },
+            {
+              "name": "verifrax"
+            }
+          ]
+        },
+        {
+          "name": "archicustos",
+          "nameWithOwner": "Verifrax/archicustos",
+          "url": "https://github.com/Verifrax/archicustos",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Custody-preservation primitive for Verifrax: protects continuity, control, and artifact stewardship boundaries.",
+          "createdAt": "2026-01-17T11:54:31Z",
+          "updatedAt": "2026-04-23T20:29:38Z",
+          "primaryLanguage": {
+            "name": "Shell"
+          },
+          "repositoryTopics": [
+            {
+              "name": "protocol-primitive"
+            },
+            {
+              "name": "verifrax"
+            },
+            {
+              "name": "custody"
+            },
+            {
+              "name": "deterministic"
+            },
+            {
+              "name": "governance"
+            },
+            {
+              "name": "integrity"
+            },
+            {
+              "name": "security"
+            },
+            {
+              "name": "artifact-stewardship"
+            }
+          ]
+        },
+        {
+          "name": "ARCHITECTURE",
+          "nameWithOwner": "Verifrax/ARCHITECTURE",
+          "url": "https://github.com/Verifrax/ARCHITECTURE",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Canonical system architecture, repository topology, host map, and governance boundary for Verifrax.",
+          "createdAt": "2026-01-26T07:59:13Z",
+          "updatedAt": "2026-04-24T06:02:15Z",
+          "primaryLanguage": null,
+          "repositoryTopics": [
+            {
+              "name": "governance"
+            },
+            {
+              "name": "policy"
+            },
+            {
+              "name": "supply-chain"
+            },
+            {
+              "name": "verifrax"
+            },
+            {
+              "name": "architecture"
+            },
+            {
+              "name": "system-design"
+            },
+            {
+              "name": "topology"
+            },
+            {
+              "name": "trust"
+            }
+          ]
+        },
+        {
+          "name": "attestorium",
+          "nameWithOwner": "Verifrax/attestorium",
+          "url": "https://github.com/Verifrax/attestorium",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Attestation primitive for Verifrax: emits deterministic attestation signals for irreversible verification systems.",
+          "createdAt": "2026-01-13T08:18:09Z",
+          "updatedAt": "2026-04-23T20:56:57Z",
+          "primaryLanguage": {
+            "name": "Shell"
+          },
+          "repositoryTopics": [
+            {
+              "name": "protocol-primitive"
+            },
+            {
+              "name": "verifrax"
+            },
+            {
+              "name": "attestation"
+            },
+            {
+              "name": "deterministic"
+            },
+            {
+              "name": "governance"
+            },
+            {
+              "name": "integrity"
+            },
+            {
+              "name": "security"
+            },
+            {
+              "name": "verification"
+            }
+          ]
+        },
+        {
+          "name": "AUCTORISEAL",
+          "nameWithOwner": "Verifrax/AUCTORISEAL",
+          "url": "https://github.com/Verifrax/AUCTORISEAL",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Authority issuance system for Verifrax: generates governance seals that authorize execution and bind receipts.",
+          "createdAt": "2026-02-05T18:31:19Z",
+          "updatedAt": "2026-06-01T18:54:31Z",
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "repositoryTopics": [
+            {
+              "name": "attestation"
+            },
+            {
+              "name": "authority"
+            },
+            {
+              "name": "governance"
+            },
+            {
+              "name": "verification"
+            },
+            {
+              "name": "verifrax"
+            },
+            {
+              "name": "policy"
+            },
+            {
+              "name": "receipts"
+            },
+            {
+              "name": "seals"
+            }
+          ]
+        },
+        {
+          "name": "cicullis",
+          "nameWithOwner": "Verifrax/cicullis",
+          "url": "https://github.com/Verifrax/cicullis",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Deterministic GitHub enforcement action for Verifrax: irreversible merge-time policy and compliance gating.",
+          "createdAt": "2026-01-22T08:39:04Z",
+          "updatedAt": "2026-04-25T06:22:43Z",
+          "primaryLanguage": {
+            "name": "HTML"
+          },
+          "repositoryTopics": [
+            {
+              "name": "compliance"
+            },
+            {
+              "name": "github-actions"
+            },
+            {
+              "name": "security"
+            },
+            {
+              "name": "deterministic"
+            },
+            {
+              "name": "devsecops"
+            },
+            {
+              "name": "policy"
+            },
+            {
+              "name": "enforcement"
+            },
+            {
+              "name": "verifrax"
+            }
+          ]
+        },
+        {
+          "name": "CONSONORIUM",
+          "nameWithOwner": "Verifrax/CONSONORIUM",
+          "url": "https://github.com/Verifrax/CONSONORIUM",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Reconciler, compiler, repair, and quarantine engine that aligns Verifrax surfaces to law and epoch truth.",
+          "createdAt": "2026-04-03T06:17:39Z",
+          "updatedAt": "2026-05-31T10:36:23Z",
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "repositoryTopics": []
+        },
+        {
+          "name": "CORPIFORM",
+          "nameWithOwner": "Verifrax/CORPIFORM",
+          "url": "https://github.com/Verifrax/CORPIFORM",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Deterministic execution runtime for Verifrax: authority-governed runs with verifiable receipt output.",
+          "createdAt": "2026-02-07T19:04:40Z",
+          "updatedAt": "2026-04-25T06:22:37Z",
+          "primaryLanguage": {
+            "name": "Shell"
+          },
+          "repositoryTopics": [
+            {
+              "name": "governance"
+            },
+            {
+              "name": "execution"
+            },
+            {
+              "name": "receipts"
+            },
+            {
+              "name": "verification"
+            },
+            {
+              "name": "verifrax"
+            },
+            {
+              "name": "compliance"
+            },
+            {
+              "name": "deterministic"
+            },
+            {
+              "name": "runtime"
+            }
+          ]
+        },
+        {
+          "name": "guillotine",
+          "nameWithOwner": "Verifrax/guillotine",
+          "url": "https://github.com/Verifrax/guillotine",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Termination primitive for Verifrax: enforces irreversible cut-off and final-stop behavior in governed systems.",
+          "createdAt": "2026-01-11T16:49:29Z",
+          "updatedAt": "2026-04-23T20:57:04Z",
+          "primaryLanguage": {
+            "name": "Shell"
+          },
+          "repositoryTopics": [
+            {
+              "name": "irreversible-systems"
+            },
+            {
+              "name": "protocol-primitive"
+            },
+            {
+              "name": "verifrax"
+            },
+            {
+              "name": "deterministic"
+            },
+            {
+              "name": "finality"
+            },
+            {
+              "name": "governance"
+            },
+            {
+              "name": "security"
+            },
+            {
+              "name": "termination"
+            }
+          ]
+        },
+        {
+          "name": "irrevocull",
+          "nameWithOwner": "Verifrax/irrevocull",
+          "url": "https://github.com/Verifrax/irrevocull",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Judgment primitive for Verifrax: records irreversible decisions for deterministic trust and compliance systems.",
+          "createdAt": "2026-01-12T09:45:36Z",
+          "updatedAt": "2026-04-23T20:57:13Z",
+          "primaryLanguage": {
+            "name": "Shell"
+          },
+          "repositoryTopics": [
+            {
+              "name": "protocol-primitive"
+            },
+            {
+              "name": "verifrax"
+            },
+            {
+              "name": "compliance"
+            },
+            {
+              "name": "decision"
+            },
+            {
+              "name": "deterministic"
+            },
+            {
+              "name": "governance"
+            },
+            {
+              "name": "judgment"
+            },
+            {
+              "name": "security"
+            }
+          ]
+        },
+        {
+          "name": "kairoclasp",
+          "nameWithOwner": "Verifrax/kairoclasp",
+          "url": "https://github.com/Verifrax/kairoclasp",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Time-boundary primitive for Verifrax: locks temporal conditions for deterministic verification and control.",
+          "createdAt": "2026-01-18T10:14:23Z",
+          "updatedAt": "2026-04-23T20:45:38Z",
+          "primaryLanguage": {
+            "name": "Shell"
+          },
+          "repositoryTopics": [
+            {
+              "name": "verifrax"
+            },
+            {
+              "name": "protocol-primitive"
+            },
+            {
+              "name": "boundary"
+            },
+            {
+              "name": "deterministic"
+            },
+            {
+              "name": "governance"
+            },
+            {
+              "name": "security"
+            },
+            {
+              "name": "time"
+            },
+            {
+              "name": "verification"
+            }
+          ]
+        },
+        {
+          "name": "limenward",
+          "nameWithOwner": "Verifrax/limenward",
+          "url": "https://github.com/Verifrax/limenward",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Boundary-enforcement primitive for Verifrax: guards entry, transition, and limit conditions in governed systems.",
+          "createdAt": "2026-01-15T08:12:38Z",
+          "updatedAt": "2026-04-23T20:57:20Z",
+          "primaryLanguage": {
+            "name": "Shell"
+          },
+          "repositoryTopics": [
+            {
+              "name": "protocol-primitive"
+            },
+            {
+              "name": "verifrax"
+            },
+            {
+              "name": "boundary-enforcement"
+            },
+            {
+              "name": "control"
+            },
+            {
+              "name": "deterministic"
+            },
+            {
+              "name": "governance"
+            },
+            {
+              "name": "security"
+            },
+            {
+              "name": "verification"
+            }
+          ]
+        },
+        {
+          "name": "ORBISTIUM",
+          "nameWithOwner": "Verifrax/ORBISTIUM",
+          "url": "https://github.com/Verifrax/ORBISTIUM",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Canonical world graph, reconciled epochs, proof bundles, and current-state memory for Verifrax.",
+          "createdAt": "2026-04-03T06:17:23Z",
+          "updatedAt": "2026-05-28T21:15:38Z",
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "repositoryTopics": []
+        },
+        {
+          "name": "originseal",
+          "nameWithOwner": "Verifrax/originseal",
+          "url": "https://github.com/Verifrax/originseal",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Origin-sealing primitive for Verifrax: binds artifact origin and provenance for deterministic trust chains.",
+          "createdAt": "2026-01-16T09:25:03Z",
+          "updatedAt": "2026-04-23T20:57:28Z",
+          "primaryLanguage": {
+            "name": "Shell"
+          },
+          "repositoryTopics": [
+            {
+              "name": "artifact-integrity"
+            },
+            {
+              "name": "verifrax"
+            },
+            {
+              "name": "protocol-primitive"
+            },
+            {
+              "name": "deterministic"
+            },
+            {
+              "name": "origin"
+            },
+            {
+              "name": "provenance"
+            },
+            {
+              "name": "security"
+            },
+            {
+              "name": "verification"
+            }
+          ]
+        },
+        {
+          "name": "proof",
+          "nameWithOwner": "Verifrax/proof",
+          "url": "https://github.com/Verifrax/proof",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Public proof publication surface for Verifrax: canonical proof artifacts, disclosures, and verification references.",
+          "createdAt": "2026-03-28T13:06:00Z",
+          "updatedAt": "2026-04-23T21:38:50Z",
+          "primaryLanguage": {
+            "name": "HTML"
+          },
+          "repositoryTopics": [
+            {
+              "name": "artifacts"
+            },
+            {
+              "name": "evidence"
+            },
+            {
+              "name": "proof"
+            },
+            {
+              "name": "public-record"
+            },
+            {
+              "name": "publication"
+            },
+            {
+              "name": "trust"
+            },
+            {
+              "name": "verification"
+            },
+            {
+              "name": "verifrax"
+            }
+          ]
+        },
+        {
+          "name": "REGRESSORIUM",
+          "nameWithOwner": "Verifrax/REGRESSORIUM",
+          "url": "https://github.com/Verifrax/REGRESSORIUM",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-04-11T18:46:53Z",
+          "updatedAt": "2026-05-06T15:46:27Z",
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "repositoryTopics": []
+        },
+        {
+          "name": "SIGILLARIUM",
+          "nameWithOwner": "Verifrax/SIGILLARIUM",
+          "url": "https://github.com/Verifrax/SIGILLARIUM",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Deterministic artifact sealing protocol for reproducible integrity bundles independent of identity or blockchain.",
+          "createdAt": "2026-02-27T09:42:54Z",
+          "updatedAt": "2026-04-24T10:46:42Z",
+          "primaryLanguage": {
+            "name": "HTML"
+          },
+          "repositoryTopics": [
+            {
+              "name": "attestation"
+            },
+            {
+              "name": "deterministic"
+            },
+            {
+              "name": "integrity"
+            },
+            {
+              "name": "protocol"
+            },
+            {
+              "name": "provenance"
+            },
+            {
+              "name": "verification"
+            },
+            {
+              "name": "verifrax"
+            },
+            {
+              "name": "artifact-sealing"
+            }
+          ]
+        },
+        {
+          "name": "SPEEDKIT",
+          "nameWithOwner": "Verifrax/SPEEDKIT",
+          "url": "https://github.com/Verifrax/SPEEDKIT",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Verifrax root registry and governance surface: SPEEDKIT.",
+          "createdAt": "2026-01-09T19:05:19Z",
+          "updatedAt": "2026-06-14T19:26:23Z",
+          "primaryLanguage": {
+            "name": "HTML"
+          },
+          "repositoryTopics": [
+            {
+              "name": "attestation"
+            },
+            {
+              "name": "devsecops"
+            },
+            {
+              "name": "governance"
+            },
+            {
+              "name": "policy"
+            },
+            {
+              "name": "provenance"
+            },
+            {
+              "name": "security"
+            },
+            {
+              "name": "supply-chain"
+            },
+            {
+              "name": "verifrax"
+            }
+          ]
+        },
+        {
+          "name": "SYNTAGMARIUM",
+          "nameWithOwner": "Verifrax/SYNTAGMARIUM",
+          "url": "https://github.com/Verifrax/SYNTAGMARIUM",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Constitutional law, invariants, role definitions, and projection contracts for the Verifrax system.",
+          "createdAt": "2026-04-03T06:16:59Z",
+          "updatedAt": "2026-05-24T18:31:25Z",
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "repositoryTopics": []
+        },
+        {
+          "name": "TACHYRIUM",
+          "nameWithOwner": "Verifrax/TACHYRIUM",
+          "url": "https://github.com/Verifrax/TACHYRIUM",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "v0.1.0 live — bounded sovereign cognition infrastructure for the Verifrax stack.",
+          "createdAt": "2026-04-09T19:54:45Z",
+          "updatedAt": "2026-06-01T12:14:38Z",
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "repositoryTopics": []
+        },
+        {
+          "name": "validexor",
+          "nameWithOwner": "Verifrax/validexor",
+          "url": "https://github.com/Verifrax/validexor",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Verification primitive for Verifrax: deterministic validation logic for irreversible integrity systems.",
+          "createdAt": "2026-01-14T08:54:05Z",
+          "updatedAt": "2026-04-23T20:16:14Z",
+          "primaryLanguage": {
+            "name": "Shell"
+          },
+          "repositoryTopics": [
+            {
+              "name": "protocol-primitive"
+            },
+            {
+              "name": "verifrax"
+            },
+            {
+              "name": "deterministic"
+            },
+            {
+              "name": "governance"
+            },
+            {
+              "name": "integrity"
+            },
+            {
+              "name": "security"
+            },
+            {
+              "name": "validation"
+            },
+            {
+              "name": "verification"
+            }
+          ]
+        },
+        {
+          "name": "VERIFRAX",
+          "nameWithOwner": "Verifrax/VERIFRAX",
+          "url": "https://github.com/Verifrax/VERIFRAX",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Core Verifrax verification protocol for authority-governed execution, evidence receipts, and deterministic trust.",
+          "createdAt": "2025-12-27T16:20:44Z",
+          "updatedAt": "2026-05-06T15:39:47Z",
+          "primaryLanguage": {
+            "name": "JavaScript"
+          },
+          "repositoryTopics": [
+            {
+              "name": "evidence"
+            },
+            {
+              "name": "protocol"
+            },
+            {
+              "name": "verifrax"
+            },
+            {
+              "name": "verification"
+            },
+            {
+              "name": "authority"
+            },
+            {
+              "name": "receipts"
+            },
+            {
+              "name": "deterministic"
+            },
+            {
+              "name": "trust"
+            }
+          ]
+        },
+        {
+          "name": "VERIFRAX-API",
+          "nameWithOwner": "Verifrax/VERIFRAX-API",
+          "url": "https://github.com/Verifrax/VERIFRAX-API",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Canonical API source for api.verifrax.net. Execution surface only.",
+          "createdAt": "2026-04-01T21:28:37Z",
+          "updatedAt": "2026-05-04T04:51:55Z",
+          "primaryLanguage": {
+            "name": "JavaScript"
+          },
+          "repositoryTopics": []
+        },
+        {
+          "name": "VERIFRAX-CONTROL-VERIFY",
+          "nameWithOwner": "Verifrax/VERIFRAX-CONTROL-VERIFY",
+          "url": "https://github.com/Verifrax/VERIFRAX-CONTROL-VERIFY",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "External replay verifier for VERIFRAX public control fixed point",
+          "createdAt": "2026-05-20T19:48:47Z",
+          "updatedAt": "2026-05-21T17:17:48Z",
+          "primaryLanguage": {
+            "name": "JavaScript"
+          },
+          "repositoryTopics": []
+        },
+        {
+          "name": "VERIFRAX-DOCS",
+          "nameWithOwner": "Verifrax/VERIFRAX-DOCS",
+          "url": "https://github.com/Verifrax/VERIFRAX-DOCS",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Official documentation site for Verifrax systems, repositories, hosts, policies, and public operating surfaces.",
+          "createdAt": "2025-12-27T22:44:31Z",
+          "updatedAt": "2026-04-24T10:46:56Z",
+          "primaryLanguage": {
+            "name": "HTML"
+          },
+          "repositoryTopics": [
+            {
+              "name": "architecture"
+            },
+            {
+              "name": "developers"
+            },
+            {
+              "name": "docs"
+            },
+            {
+              "name": "documentation"
+            },
+            {
+              "name": "policy"
+            },
+            {
+              "name": "trust"
+            },
+            {
+              "name": "verification"
+            },
+            {
+              "name": "verifrax"
+            }
+          ]
+        },
+        {
+          "name": "verifrax-marketplace-smoke",
+          "nameWithOwner": "Verifrax/verifrax-marketplace-smoke",
+          "url": "https://github.com/Verifrax/verifrax-marketplace-smoke",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Marketplace smoke-test repository for Verifrax actions, releases, and installation-path verification.",
+          "createdAt": "2026-02-28T10:38:48Z",
+          "updatedAt": "2026-04-24T10:47:35Z",
+          "primaryLanguage": null,
+          "repositoryTopics": [
+            {
+              "name": "automation"
+            },
+            {
+              "name": "ci"
+            },
+            {
+              "name": "github-actions"
+            },
+            {
+              "name": "marketplace"
+            },
+            {
+              "name": "release-validation"
+            },
+            {
+              "name": "smoke-test"
+            },
+            {
+              "name": "verification"
+            },
+            {
+              "name": "verifrax"
+            }
+          ]
+        },
+        {
+          "name": "VERIFRAX-PROFILES",
+          "nameWithOwner": "Verifrax/VERIFRAX-PROFILES",
+          "url": "https://github.com/Verifrax/VERIFRAX-PROFILES",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Schemas, fixtures, and deterministic profile surfaces for Verifrax identity and verification flows.",
+          "createdAt": "2025-12-27T22:42:50Z",
+          "updatedAt": "2026-04-23T21:24:06Z",
+          "primaryLanguage": {
+            "name": "JavaScript"
+          },
+          "repositoryTopics": [
+            {
+              "name": "compliance"
+            },
+            {
+              "name": "deterministic"
+            },
+            {
+              "name": "identity"
+            },
+            {
+              "name": "profiles"
+            },
+            {
+              "name": "fixtures"
+            },
+            {
+              "name": "schemas"
+            },
+            {
+              "name": "verification"
+            },
+            {
+              "name": "verifrax"
+            }
+          ]
+        },
+        {
+          "name": "VERIFRAX-PY",
+          "nameWithOwner": "Verifrax/VERIFRAX-PY",
+          "url": "https://github.com/Verifrax/VERIFRAX-PY",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Python SDK and CLI implementation boundary for VERIFRAX verification, evidence inspection, API access, and refusal-aware object-chain diagnostics.",
+          "createdAt": "2026-05-01T12:59:09Z",
+          "updatedAt": "2026-05-05T09:08:25Z",
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "repositoryTopics": []
+        },
+        {
+          "name": "VERIFRAX-SAMPLES",
+          "nameWithOwner": "Verifrax/VERIFRAX-SAMPLES",
+          "url": "https://github.com/Verifrax/VERIFRAX-SAMPLES",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Reference samples and example artifacts for Verifrax verification, evidence, and integration workflows.",
+          "createdAt": "2025-12-27T22:45:57Z",
+          "updatedAt": "2026-04-23T21:24:14Z",
+          "primaryLanguage": null,
+          "repositoryTopics": [
+            {
+              "name": "developers"
+            },
+            {
+              "name": "evidence"
+            },
+            {
+              "name": "examples"
+            },
+            {
+              "name": "integration"
+            },
+            {
+              "name": "reference"
+            },
+            {
+              "name": "samples"
+            },
+            {
+              "name": "verification"
+            },
+            {
+              "name": "verifrax"
+            }
+          ]
+        },
+        {
+          "name": "VERIFRAX-SPEC",
+          "nameWithOwner": "Verifrax/VERIFRAX-SPEC",
+          "url": "https://github.com/Verifrax/VERIFRAX-SPEC",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Formal Verifrax specification covering contracts, invariants, evidence boundaries, and verification rules.",
+          "createdAt": "2025-12-27T22:37:50Z",
+          "updatedAt": "2026-04-23T21:24:23Z",
+          "primaryLanguage": {
+            "name": "HTML"
+          },
+          "repositoryTopics": [
+            {
+              "name": "compliance"
+            },
+            {
+              "name": "evidence"
+            },
+            {
+              "name": "invariants"
+            },
+            {
+              "name": "protocol"
+            },
+            {
+              "name": "specification"
+            },
+            {
+              "name": "standard"
+            },
+            {
+              "name": "verification"
+            },
+            {
+              "name": "verifrax"
+            }
+          ]
+        },
+        {
+          "name": "VERIFRAX-STATUS",
+          "nameWithOwner": "Verifrax/VERIFRAX-STATUS",
+          "url": "https://github.com/Verifrax/VERIFRAX-STATUS",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Canonical operational status surface for status.verifrax.net. Status truth only.",
+          "createdAt": "2026-04-01T19:26:00Z",
+          "updatedAt": "2026-06-01T17:58:07Z",
+          "primaryLanguage": {
+            "name": "HTML"
+          },
+          "repositoryTopics": []
+        },
+        {
+          "name": "VERIFRAX-SURFACE",
+          "nameWithOwner": "Verifrax/VERIFRAX-SURFACE",
+          "url": "https://github.com/Verifrax/VERIFRAX-SURFACE",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Canonical surface system for VERIFRAX.",
+          "createdAt": "2026-04-01T07:45:25Z",
+          "updatedAt": "2026-04-24T10:47:08Z",
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "repositoryTopics": []
+        },
+        {
+          "name": "VERIFRAX-verify",
+          "nameWithOwner": "Verifrax/VERIFRAX-verify",
+          "url": "https://github.com/Verifrax/VERIFRAX-verify",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Public verification surface for finality-grade truth checks, proof review, and post-hoc determination.",
+          "createdAt": "2025-12-27T20:13:08Z",
+          "updatedAt": "2026-05-01T07:50:13Z",
+          "primaryLanguage": {
+            "name": "HTML"
+          },
+          "repositoryTopics": [
+            {
+              "name": "compliance"
+            },
+            {
+              "name": "finality"
+            },
+            {
+              "name": "verification"
+            },
+            {
+              "name": "verifrax"
+            },
+            {
+              "name": "deterministic"
+            },
+            {
+              "name": "proof"
+            },
+            {
+              "name": "public-verification"
+            },
+            {
+              "name": "truth"
+            }
+          ]
+        },
+        {
+          "name": "VERIFRAX-WWW",
+          "nameWithOwner": "Verifrax/VERIFRAX-WWW",
+          "url": "https://github.com/Verifrax/VERIFRAX-WWW",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Canonical root surface for www.verifrax.net Public entry only.",
+          "createdAt": "2026-04-01T09:21:36Z",
+          "updatedAt": "2026-06-15T21:00:39Z",
+          "primaryLanguage": {
+            "name": "JavaScript"
+          },
+          "repositoryTopics": []
+        }
+      ]
+    },
+    {
+      "owner": "VATFix",
+      "visible_repo_count": 28,
+      "role": "VAT / tax compliance evidence-control product stack",
+      "classification": "VERTICAL_COMMERCIAL_PRODUCT",
+      "source": "data/live/owners/vatfix.repos.json",
+      "repos": [
+        {
+          "name": "CONSOLE",
+          "nameWithOwner": "VATFix/CONSOLE",
+          "url": "https://github.com/VATFix/CONSOLE",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-28T06:15:49Z",
+          "updatedAt": "2026-01-28T21:23:58Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "LEGAL",
+          "nameWithOwner": "VATFix/LEGAL",
+          "url": "https://github.com/VATFix/LEGAL",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-26T00:39:27Z",
+          "updatedAt": "2026-01-28T21:24:07Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "OPS",
+          "nameWithOwner": "VATFix/OPS",
+          "url": "https://github.com/VATFix/OPS",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-28T06:16:26Z",
+          "updatedAt": "2026-01-28T21:23:57Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "REGISTRY",
+          "nameWithOwner": "VATFix/REGISTRY",
+          "url": "https://github.com/VATFix/REGISTRY",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-26T00:29:53Z",
+          "updatedAt": "2026-01-28T21:24:14Z",
+          "primaryLanguage": {
+            "name": "Shell"
+          },
+          "repositoryTopics": []
+        },
+        {
+          "name": "REPLAY",
+          "nameWithOwner": "VATFix/REPLAY",
+          "url": "https://github.com/VATFix/REPLAY",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-28T06:16:50Z",
+          "updatedAt": "2026-01-28T21:23:55Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "SECTORS",
+          "nameWithOwner": "VATFix/SECTORS",
+          "url": "https://github.com/VATFix/SECTORS",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-28T06:17:02Z",
+          "updatedAt": "2026-01-28T21:23:54Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "SECURITY",
+          "nameWithOwner": "VATFix/SECURITY",
+          "url": "https://github.com/VATFix/SECURITY",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-26T00:34:06Z",
+          "updatedAt": "2026-01-28T21:24:08Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "TELEMETRY",
+          "nameWithOwner": "VATFix/TELEMETRY",
+          "url": "https://github.com/VATFix/TELEMETRY",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-28T06:15:32Z",
+          "updatedAt": "2026-01-28T21:23:59Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "VATFIX",
+          "nameWithOwner": "VATFix/VATFIX",
+          "url": "https://github.com/VATFix/VATFIX",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-26T00:30:10Z",
+          "updatedAt": "2026-01-28T21:24:15Z",
+          "primaryLanguage": {
+            "name": "Shell"
+          },
+          "repositoryTopics": []
+        },
+        {
+          "name": "vatfix-action",
+          "nameWithOwner": "VATFix/vatfix-action",
+          "url": "https://github.com/VATFix/vatfix-action",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-28T16:13:21Z",
+          "updatedAt": "2026-01-28T21:23:53Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "vatfix-attestations",
+          "nameWithOwner": "VATFix/vatfix-attestations",
+          "url": "https://github.com/VATFix/vatfix-attestations",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-26T00:32:18Z",
+          "updatedAt": "2026-01-28T21:24:25Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "vatfix-audit-log-spec",
+          "nameWithOwner": "VATFix/vatfix-audit-log-spec",
+          "url": "https://github.com/VATFix/vatfix-audit-log-spec",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-26T00:32:35Z",
+          "updatedAt": "2026-01-28T21:24:24Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "vatfix-evidence-model",
+          "nameWithOwner": "VATFix/vatfix-evidence-model",
+          "url": "https://github.com/VATFix/vatfix-evidence-model",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-26T00:32:56Z",
+          "updatedAt": "2026-01-28T21:24:22Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "vatfix-fallback-adapter",
+          "nameWithOwner": "VATFix/vatfix-fallback-adapter",
+          "url": "https://github.com/VATFix/vatfix-fallback-adapter",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-26T00:31:56Z",
+          "updatedAt": "2026-01-28T21:24:21Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "vatfix-intrastat",
+          "nameWithOwner": "VATFix/vatfix-intrastat",
+          "url": "https://github.com/VATFix/vatfix-intrastat",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-26T09:47:30Z",
+          "updatedAt": "2026-01-28T21:24:02Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "vatfix-invoice",
+          "nameWithOwner": "VATFix/vatfix-invoice",
+          "url": "https://github.com/VATFix/vatfix-invoice",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-26T00:33:29Z",
+          "updatedAt": "2026-01-28T21:24:28Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "VATFix-Master",
+          "nameWithOwner": "VATFix/VATFix-Master",
+          "url": "https://github.com/VATFix/VATFix-Master",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-27T00:05:48Z",
+          "updatedAt": "2026-01-28T21:24:00Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "vatfix-oss",
+          "nameWithOwner": "VATFix/vatfix-oss",
+          "url": "https://github.com/VATFix/vatfix-oss",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-26T09:47:14Z",
+          "updatedAt": "2026-01-28T21:24:03Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "VATFix-Plus",
+          "nameWithOwner": "VATFix/VATFix-Plus",
+          "url": "https://github.com/VATFix/VATFix-Plus",
+          "visibility": "PRIVATE",
+          "isPrivate": true,
+          "description": "Commercial EU VAT validation API. VIES fallback. Stripe-secured access.",
+          "createdAt": "2025-08-05T22:08:32Z",
+          "updatedAt": "2026-01-29T21:59:09Z",
+          "primaryLanguage": null,
+          "repositoryTopics": [
+            {
+              "name": "ecommerce-api"
+            },
+            {
+              "name": "fallback"
+            },
+            {
+              "name": "integration"
+            },
+            {
+              "name": "stripe"
+            },
+            {
+              "name": "vat"
+            },
+            {
+              "name": "vat-validation"
+            },
+            {
+              "name": "vat-validator"
+            },
+            {
+              "name": "vatvalidation"
+            },
+            {
+              "name": "vies"
+            },
+            {
+              "name": "vies-api"
+            },
+            {
+              "name": "vat-checkout"
+            },
+            {
+              "name": "vat-proxy"
+            }
+          ]
+        },
+        {
+          "name": "vatfix-postman",
+          "nameWithOwner": "VATFix/vatfix-postman",
+          "url": "https://github.com/VATFix/vatfix-postman",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-26T00:40:20Z",
+          "updatedAt": "2026-01-28T21:24:06Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "vatfix-rules-eu",
+          "nameWithOwner": "VATFix/vatfix-rules-eu",
+          "url": "https://github.com/VATFix/vatfix-rules-eu",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-26T00:30:52Z",
+          "updatedAt": "2026-01-28T21:24:10Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "vatfix-sdk-js",
+          "nameWithOwner": "VATFix/vatfix-sdk-js",
+          "url": "https://github.com/VATFix/vatfix-sdk-js",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-26T00:39:47Z",
+          "updatedAt": "2026-01-28T21:24:12Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "vatfix-sdk-python",
+          "nameWithOwner": "VATFix/vatfix-sdk-python",
+          "url": "https://github.com/VATFix/vatfix-sdk-python",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-26T00:40:03Z",
+          "updatedAt": "2026-01-28T21:24:11Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "vatfix-sepa",
+          "nameWithOwner": "VATFix/vatfix-sepa",
+          "url": "https://github.com/VATFix/vatfix-sepa",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-26T00:33:42Z",
+          "updatedAt": "2026-01-28T21:24:26Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "vatfix-vies-adapter",
+          "nameWithOwner": "VATFix/vatfix-vies-adapter",
+          "url": "https://github.com/VATFix/vatfix-vies-adapter",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-26T00:31:39Z",
+          "updatedAt": "2026-01-28T21:24:18Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "vatfix-xml",
+          "nameWithOwner": "VATFix/vatfix-xml",
+          "url": "https://github.com/VATFix/vatfix-xml",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-26T00:33:16Z",
+          "updatedAt": "2026-01-28T21:26:44Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "vatfix-zapier",
+          "nameWithOwner": "VATFix/vatfix-zapier",
+          "url": "https://github.com/VATFix/vatfix-zapier",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-26T00:40:37Z",
+          "updatedAt": "2026-01-28T21:24:05Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "vatfix.eu",
+          "nameWithOwner": "VATFix/vatfix.eu",
+          "url": "https://github.com/VATFix/vatfix.eu",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-26T00:30:31Z",
+          "updatedAt": "2026-01-28T21:24:19Z",
+          "primaryLanguage": {
+            "name": "HTML"
+          },
+          "repositoryTopics": []
+        }
+      ]
+    },
+    {
+      "owner": "qvra",
+      "visible_repo_count": 12,
+      "role": "modular micro-stack / lab / runtime namespace",
+      "classification": "MODULAR_MICRO_STACK",
+      "source": "data/live/owners/qvra.repos.json",
+      "repos": [
+        {
+          "name": "bench",
+          "nameWithOwner": "qvra/bench",
+          "url": "https://github.com/qvra/bench",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Argument engine for qvra: reproducible benchmarks, constrained comparisons, measurable technical pressure.",
+          "createdAt": "2026-04-05T14:03:59Z",
+          "updatedAt": "2026-04-05T17:43:22Z",
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "repositoryTopics": [
+            {
+              "name": "anchor"
+            },
+            {
+              "name": "benchmark"
+            },
+            {
+              "name": "comparison"
+            },
+            {
+              "name": "measurement"
+            },
+            {
+              "name": "qvra"
+            }
+          ]
+        },
+        {
+          "name": "core",
+          "nameWithOwner": "qvra/core",
+          "url": "https://github.com/qvra/core",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Backbone surface for qvra: shared internal machinery that supports live public surfaces.",
+          "createdAt": "2026-04-05T18:06:18Z",
+          "updatedAt": "2026-04-05T18:50:26Z",
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "repositoryTopics": [
+            {
+              "name": "core"
+            },
+            {
+              "name": "infrastructure"
+            },
+            {
+              "name": "library"
+            },
+            {
+              "name": "qvra"
+            },
+            {
+              "name": "spine"
+            }
+          ]
+        },
+        {
+          "name": "index",
+          "nameWithOwner": "qvra/index",
+          "url": "https://github.com/qvra/index",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Field map for qvra: role-based routing that keeps growth legible.",
+          "createdAt": "2026-04-05T18:06:39Z",
+          "updatedAt": "2026-04-05T18:50:27Z",
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "repositoryTopics": [
+            {
+              "name": "catalog"
+            },
+            {
+              "name": "index"
+            },
+            {
+              "name": "navigation"
+            },
+            {
+              "name": "qvra"
+            },
+            {
+              "name": "spine"
+            }
+          ]
+        },
+        {
+          "name": "kit",
+          "nameWithOwner": "qvra/kit",
+          "url": "https://github.com/qvra/kit",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Reusable foundation surface for qvra: copyable repo bases and route-first starting shapes.",
+          "createdAt": "2026-04-05T18:05:51Z",
+          "updatedAt": "2026-04-05T18:50:25Z",
+          "primaryLanguage": {
+            "name": "Shell"
+          },
+          "repositoryTopics": [
+            {
+              "name": "foundations"
+            },
+            {
+              "name": "qvra"
+            },
+            {
+              "name": "spine"
+            },
+            {
+              "name": "starter-kit"
+            },
+            {
+              "name": "templates"
+            }
+          ]
+        },
+        {
+          "name": "lab",
+          "nameWithOwner": "qvra/lab",
+          "url": "https://github.com/qvra/lab",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Public experimentation zone for qvra: unstable prototypes, sharp unfinished ideas, forward pressure.",
+          "createdAt": "2026-04-05T14:04:18Z",
+          "updatedAt": "2026-04-05T17:43:29Z",
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "repositoryTopics": [
+            {
+              "name": "anchor"
+            },
+            {
+              "name": "experiments"
+            },
+            {
+              "name": "prototypes"
+            },
+            {
+              "name": "qvra"
+            },
+            {
+              "name": "research"
+            }
+          ]
+        },
+        {
+          "name": "launch",
+          "nameWithOwner": "qvra/launch",
+          "url": "https://github.com/qvra/launch",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Fast entry surface for qvra: starter paths and one-shot bootstrap routes.",
+          "createdAt": "2026-04-05T18:05:32Z",
+          "updatedAt": "2026-04-05T18:50:24Z",
+          "primaryLanguage": {
+            "name": "Shell"
+          },
+          "repositoryTopics": [
+            {
+              "name": "bootstrap"
+            },
+            {
+              "name": "qvra"
+            },
+            {
+              "name": "setup"
+            },
+            {
+              "name": "spine"
+            },
+            {
+              "name": "starters"
+            }
+          ]
+        },
+        {
+          "name": "meta",
+          "nameWithOwner": "qvra/meta",
+          "url": "https://github.com/qvra/meta",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Pattern engine for qvra: shared standards, repo grammar, and operating defaults.",
+          "createdAt": "2026-04-05T18:05:13Z",
+          "updatedAt": "2026-04-05T18:50:23Z",
+          "primaryLanguage": null,
+          "repositoryTopics": [
+            {
+              "name": "conventions"
+            },
+            {
+              "name": "qvra"
+            },
+            {
+              "name": "spine"
+            },
+            {
+              "name": "standards"
+            },
+            {
+              "name": "templates"
+            }
+          ]
+        },
+        {
+          "name": "pulse",
+          "nameWithOwner": "qvra/pulse",
+          "url": "https://github.com/qvra/pulse",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Heartbeat surface for qvra: motion logs, release rhythm, recurrence, visible field activity.",
+          "createdAt": "2026-04-05T14:04:43Z",
+          "updatedAt": "2026-04-05T17:43:28Z",
+          "primaryLanguage": null,
+          "repositoryTopics": [
+            {
+              "name": "activity"
+            },
+            {
+              "name": "anchor"
+            },
+            {
+              "name": "changelog"
+            },
+            {
+              "name": "qvra"
+            },
+            {
+              "name": "releases"
+            }
+          ]
+        },
+        {
+          "name": "qvra",
+          "nameWithOwner": "qvra/qvra",
+          "url": "https://github.com/qvra/qvra",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Front door for qvra: route-first entry into the live field.",
+          "createdAt": "2026-04-05T18:04:14Z",
+          "updatedAt": "2026-04-05T18:50:21Z",
+          "primaryLanguage": null,
+          "repositoryTopics": [
+            {
+              "name": "entry"
+            },
+            {
+              "name": "gateway"
+            },
+            {
+              "name": "qvra"
+            },
+            {
+              "name": "router"
+            },
+            {
+              "name": "spine"
+            }
+          ]
+        },
+        {
+          "name": "run",
+          "nameWithOwner": "qvra/run",
+          "url": "https://github.com/qvra/run",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Immediate utility anchor for qvra: small runnable tools, visible output, fast wins.",
+          "createdAt": "2026-04-05T14:03:47Z",
+          "updatedAt": "2026-04-05T17:45:35Z",
+          "primaryLanguage": {
+            "name": "Shell"
+          },
+          "repositoryTopics": [
+            {
+              "name": "anchor"
+            },
+            {
+              "name": "cli"
+            },
+            {
+              "name": "tools"
+            },
+            {
+              "name": "utility"
+            },
+            {
+              "name": "qvra"
+            }
+          ]
+        },
+        {
+          "name": "show",
+          "nameWithOwner": "qvra/show",
+          "url": "https://github.com/qvra/show",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Visible proof surface for qvra: demos, examples, showcase routes, curiosity into contact.",
+          "createdAt": "2026-04-05T14:04:28Z",
+          "updatedAt": "2026-04-05T17:43:29Z",
+          "primaryLanguage": null,
+          "repositoryTopics": [
+            {
+              "name": "anchor"
+            },
+            {
+              "name": "demos"
+            },
+            {
+              "name": "examples"
+            },
+            {
+              "name": "qvra"
+            },
+            {
+              "name": "showcase"
+            }
+          ]
+        },
+        {
+          "name": "site",
+          "nameWithOwner": "qvra/site",
+          "url": "https://github.com/qvra/site",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Public web surface for qvra: fast, visual, current, route-dense.",
+          "createdAt": "2026-04-05T18:04:44Z",
+          "updatedAt": "2026-04-05T18:50:22Z",
+          "primaryLanguage": {
+            "name": "HTML"
+          },
+          "repositoryTopics": [
+            {
+              "name": "landing-page"
+            },
+            {
+              "name": "qvra"
+            },
+            {
+              "name": "routes"
+            },
+            {
+              "name": "spine"
+            },
+            {
+              "name": "website"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "owner": "INVOCORDER",
+      "visible_repo_count": 6,
+      "role": "machine-action evidence recording system",
+      "classification": "EVIDENCE_RECORDER_PRODUCT",
+      "source": "data/live/owners/invocorder.repos.json",
+      "repos": [
+        {
+          "name": ".github",
+          "nameWithOwner": "INVOCORDER/.github",
+          "url": "https://github.com/INVOCORDER/.github",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "INVOCORDER organization profile",
+          "createdAt": "2026-05-08T15:54:37Z",
+          "updatedAt": "2026-05-08T16:03:38Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "CAPTURE-CONTRACT",
+          "nameWithOwner": "INVOCORDER/CAPTURE-CONTRACT",
+          "url": "https://github.com/INVOCORDER/CAPTURE-CONTRACT",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Normative capture contract for machine-action boundary records and replayable evidence bundles.",
+          "createdAt": "2026-05-08T15:40:18Z",
+          "updatedAt": "2026-05-08T15:56:47Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "EVIDENCE-SCHEMAS",
+          "nameWithOwner": "INVOCORDER/EVIDENCE-SCHEMAS",
+          "url": "https://github.com/INVOCORDER/EVIDENCE-SCHEMAS",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Canonical schemas and validators for INVOCORDER machine-action evidence objects.",
+          "createdAt": "2026-05-08T15:40:33Z",
+          "updatedAt": "2026-05-08T15:56:48Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "HOSTILE-FIXTURES",
+          "nameWithOwner": "INVOCORDER/HOSTILE-FIXTURES",
+          "url": "https://github.com/INVOCORDER/HOSTILE-FIXTURES",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Adversarial fixture corpus for proving INVOCORDER does not lie, overclaim, silently omit, or confuse integrity with truth.",
+          "createdAt": "2026-05-08T15:40:47Z",
+          "updatedAt": "2026-05-09T06:12:08Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "INTEGRATIONS",
+          "nameWithOwner": "INVOCORDER/INTEGRATIONS",
+          "url": "https://github.com/INVOCORDER/INTEGRATIONS",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Runnable integrations for local commands, MCP, CI agents, IDE agents, browser agents, and downstream evidence consumers.",
+          "createdAt": "2026-05-08T15:41:02Z",
+          "updatedAt": "2026-05-08T15:56:49Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "INVOCORDER",
+          "nameWithOwner": "INVOCORDER/INVOCORDER",
+          "url": "https://github.com/INVOCORDER/INVOCORDER",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Machine-action evidence recorder runtime: hash-chained boundary records and replayable evidence bundles.",
+          "createdAt": "2026-05-08T15:36:32Z",
+          "updatedAt": "2026-06-13T19:20:33Z",
+          "primaryLanguage": {
+            "name": "JavaScript"
+          },
+          "repositoryTopics": []
+        }
+      ]
+    },
+    {
+      "owner": "ANTIMATTERIUM",
+      "visible_repo_count": 3,
+      "role": "antimatter economics / custody / starflight public evidence layer",
+      "classification": "RESEARCH_NARRATIVE_EVIDENCE_ORG",
+      "source": "data/live/owners/antimatterium.repos.json",
+      "repos": [
+        {
+          "name": ".github",
+          "nameWithOwner": "ANTIMATTERIUM/.github",
+          "url": "https://github.com/ANTIMATTERIUM/.github",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "ANTIMATTERIUM public organization profile",
+          "createdAt": "2026-06-19T22:23:36Z",
+          "updatedAt": "2026-06-19T22:23:44Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "ANTIMATTERIUM",
+          "nameWithOwner": "ANTIMATTERIUM/ANTIMATTERIUM",
+          "url": "https://github.com/ANTIMATTERIUM/ANTIMATTERIUM",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Industrial antimatter economics, custody, storage, and starflight mission architecture.",
+          "createdAt": "2026-06-19T21:55:36Z",
+          "updatedAt": "2026-06-19T22:37:38Z",
+          "primaryLanguage": {
+            "name": "JavaScript"
+          },
+          "repositoryTopics": []
+        },
+        {
+          "name": "WWW",
+          "nameWithOwner": "ANTIMATTERIUM/WWW",
+          "url": "https://github.com/ANTIMATTERIUM/WWW",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "ANTIMATTERIUM public web surface",
+          "createdAt": "2026-06-20T05:41:28Z",
+          "updatedAt": "2026-06-20T05:41:35Z",
+          "primaryLanguage": {
+            "name": "HTML"
+          },
+          "repositoryTopics": []
+        }
+      ]
+    },
+    {
+      "owner": "kaaffilm",
+      "visible_repo_count": 11,
+      "role": "film / cinematic authority workspace",
+      "classification": "CINEMATIC_AUTHORITY_WORKSPACE",
+      "source": "data/live/owners/kaaffilm.repos.json",
+      "repos": [
+        {
+          "name": ".github",
+          "nameWithOwner": "kaaffilm/.github",
+          "url": "https://github.com/kaaffilm/.github",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Organization profile",
+          "createdAt": "2026-01-25T12:25:58Z",
+          "updatedAt": "2026-05-01T09:50:43Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "amplify-next-template",
+          "nameWithOwner": "kaaffilm/amplify-next-template",
+          "url": "https://github.com/kaaffilm/amplify-next-template",
+          "visibility": "PRIVATE",
+          "isPrivate": true,
+          "description": "My Amplify Gen 2 starter application",
+          "createdAt": "2024-09-27T23:22:11Z",
+          "updatedAt": "2025-10-17T07:57:13Z",
+          "primaryLanguage": {
+            "name": "CSS"
+          },
+          "repositoryTopics": []
+        },
+        {
+          "name": "cinelint",
+          "nameWithOwner": "kaaffilm/cinelint",
+          "url": "https://github.com/kaaffilm/cinelint",
+          "visibility": "PRIVATE",
+          "isPrivate": true,
+          "description": "VERIFRAX  is universal verification and finality framework for deterministic processes.",
+          "createdAt": "2025-12-25T17:34:45Z",
+          "updatedAt": "2025-12-27T13:01:43Z",
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "repositoryTopics": [
+            {
+              "name": "deterministic"
+            },
+            {
+              "name": "verification"
+            },
+            {
+              "name": "finality-framework"
+            },
+            {
+              "name": "finance"
+            },
+            {
+              "name": "law"
+            },
+            {
+              "name": "media"
+            },
+            {
+              "name": "regulation"
+            }
+          ]
+        },
+        {
+          "name": "CINEMATICUM",
+          "nameWithOwner": "kaaffilm/CINEMATICUM",
+          "url": "https://github.com/kaaffilm/CINEMATICUM",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "CINEMATICUM produces admissible cinema.",
+          "createdAt": "2026-05-03T09:51:10Z",
+          "updatedAt": "2026-06-02T10:53:28Z",
+          "primaryLanguage": {
+            "name": "JavaScript"
+          },
+          "repositoryTopics": []
+        },
+        {
+          "name": "demo-repository",
+          "nameWithOwner": "kaaffilm/demo-repository",
+          "url": "https://github.com/kaaffilm/demo-repository",
+          "visibility": "PRIVATE",
+          "isPrivate": true,
+          "description": "A code repository designed to show the best GitHub has to offer.",
+          "createdAt": "2025-10-17T12:36:26Z",
+          "updatedAt": "2025-10-17T12:36:30Z",
+          "primaryLanguage": {
+            "name": "HTML"
+          },
+          "repositoryTopics": []
+        },
+        {
+          "name": "flowbuilder-pro",
+          "nameWithOwner": "kaaffilm/flowbuilder-pro",
+          "url": "https://github.com/kaaffilm/flowbuilder-pro",
+          "visibility": "PRIVATE",
+          "isPrivate": true,
+          "description": "Full-stack prompt generator with Vite + Node.js",
+          "createdAt": "2025-06-27T14:41:43Z",
+          "updatedAt": "2025-10-17T07:57:13Z",
+          "primaryLanguage": {
+            "name": "JavaScript"
+          },
+          "repositoryTopics": []
+        },
+        {
+          "name": "july-tower-shell",
+          "nameWithOwner": "kaaffilm/july-tower-shell",
+          "url": "https://github.com/kaaffilm/july-tower-shell",
+          "visibility": "PRIVATE",
+          "isPrivate": true,
+          "description": "The cinematic React-based front-end for JULY — Kaaffilm’s AI-powered film operative command interface.",
+          "createdAt": "2025-07-01T17:47:31Z",
+          "updatedAt": "2025-10-17T07:57:13Z",
+          "primaryLanguage": {
+            "name": "JavaScript"
+          },
+          "repositoryTopics": []
+        },
+        {
+          "name": "kaaffilm-pulse",
+          "nameWithOwner": "kaaffilm/kaaffilm-pulse",
+          "url": "https://github.com/kaaffilm/kaaffilm-pulse",
+          "visibility": "PRIVATE",
+          "isPrivate": true,
+          "description": "The Creative Operating System for Filmmakers",
+          "createdAt": "2025-06-14T19:08:11Z",
+          "updatedAt": "2025-10-17T07:57:13Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "MK10-PRO",
+          "nameWithOwner": "kaaffilm/MK10-PRO",
+          "url": "https://github.com/kaaffilm/MK10-PRO",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Pre-delivery truth infrastructure",
+          "createdAt": "2025-12-26T14:06:45Z",
+          "updatedAt": "2026-05-02T17:42:43Z",
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "repositoryTopics": [
+            {
+              "name": "attestation"
+            },
+            {
+              "name": "auditability"
+            },
+            {
+              "name": "build-integrity"
+            },
+            {
+              "name": "ci-security"
+            },
+            {
+              "name": "cryptographic-verification"
+            },
+            {
+              "name": "determinism"
+            },
+            {
+              "name": "provenance"
+            },
+            {
+              "name": "reproducible-builds"
+            },
+            {
+              "name": "supply-chain-security"
+            }
+          ]
+        },
+        {
+          "name": "quickdcp",
+          "nameWithOwner": "kaaffilm/quickdcp",
+          "url": "https://github.com/kaaffilm/quickdcp",
+          "visibility": "PRIVATE",
+          "isPrivate": true,
+          "description": "Automated DCP/IMF encoding, validation, proofing, and packaging API.",
+          "createdAt": "2025-10-16T20:39:00Z",
+          "updatedAt": "2025-10-17T07:57:14Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "vault-loop-kit",
+          "nameWithOwner": "kaaffilm/vault-loop-kit",
+          "url": "https://github.com/kaaffilm/vault-loop-kit",
+          "visibility": "PRIVATE",
+          "isPrivate": true,
+          "description": "",
+          "createdAt": "2025-07-03T17:45:19Z",
+          "updatedAt": "2025-10-17T07:57:14Z",
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "repositoryTopics": []
+        }
+      ]
+    },
+    {
+      "owner": "TRUTHFRAMER",
+      "visible_repo_count": 2,
+      "role": "truth framing / capsule / platform control stack",
+      "classification": "TRUTH_PLATFORM_ORG",
+      "source": "data/live/owners/truthframer.repos.json",
+      "repos": [
+        {
+          "name": ".github",
+          "nameWithOwner": "TRUTHFRAMER/.github",
+          "url": "https://github.com/TRUTHFRAMER/.github",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Public organization profile for TRUTHFRAMER.",
+          "createdAt": "2026-05-26T17:01:48Z",
+          "updatedAt": "2026-05-26T17:04:00Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        },
+        {
+          "name": "truthframer-platform",
+          "nameWithOwner": "TRUTHFRAMER/truthframer-platform",
+          "url": "https://github.com/TRUTHFRAMER/truthframer-platform",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "The object spine for TRUTHFRAMER: replayable visual truth frames for market reality.",
+          "createdAt": "2026-05-26T16:57:45Z",
+          "updatedAt": "2026-06-02T06:06:24Z",
+          "primaryLanguage": {
+            "name": "JavaScript"
+          },
+          "repositoryTopics": []
+        }
+      ]
+    },
+    {
+      "owner": "qxvi",
+      "visible_repo_count": 2,
+      "role": "boundary camera / QXVI control surface",
+      "classification": "BOUNDARY_CAMERA_CONTROL_SURFACE",
+      "source": "data/live/owners/qxvi.repos.json",
+      "repos": [
+        {
+          "name": ".github",
+          "nameWithOwner": "qxvi/.github",
+          "url": "https://github.com/qxvi/.github",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "qxvi complete public boundary interface org profile, live registry, control index, and completion object.",
+          "createdAt": "2026-06-19T21:06:50Z",
+          "updatedAt": "2026-06-20T05:42:33Z",
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "repositoryTopics": [
+            {
+              "name": "ai-agents"
+            },
+            {
+              "name": "boundary-control"
+            },
+            {
+              "name": "machine-action"
+            },
+            {
+              "name": "verification"
+            },
+            {
+              "name": "boundarycam"
+            },
+            {
+              "name": "public-interface"
+            },
+            {
+              "name": "qxvi"
+            },
+            {
+              "name": "org-profile"
+            }
+          ]
+        },
+        {
+          "name": "BOUNDARYCAM",
+          "nameWithOwner": "qxvi/BOUNDARYCAM",
+          "url": "https://github.com/qxvi/BOUNDARYCAM",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "The camera for machine action. Capture what crossed the boundary when agents, workflows, and autonomous systems act.",
+          "createdAt": "2026-06-18T21:17:43Z",
+          "updatedAt": "2026-06-20T05:40:56Z",
+          "primaryLanguage": {
+            "name": "Python"
+          },
+          "repositoryTopics": [
+            {
+              "name": "ai-agents"
+            },
+            {
+              "name": "evidence"
+            },
+            {
+              "name": "governance"
+            },
+            {
+              "name": "machine-action"
+            },
+            {
+              "name": "verification"
+            },
+            {
+              "name": "boundary-control"
+            },
+            {
+              "name": "boundarycam"
+            },
+            {
+              "name": "qxvi"
+            },
+            {
+              "name": "public-interface"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "owner": "CINEMATICUM",
+      "visible_repo_count": 1,
+      "role": "dedicated cinematic jurisdiction org",
+      "classification": "CINEMATIC_JURISDICTION",
+      "source": "data/live/owners/cinematicum.repos.json",
+      "repos": [
+        {
+          "name": "CINEMATICUM",
+          "nameWithOwner": "CINEMATICUM/CINEMATICUM",
+          "url": "https://github.com/CINEMATICUM/CINEMATICUM",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "CINEMATICUM issues admissible motion pictures.",
+          "createdAt": "2026-06-01T12:50:54Z",
+          "updatedAt": "2026-06-01T13:29:04Z",
+          "primaryLanguage": {
+            "name": "JavaScript"
+          },
+          "repositoryTopics": []
+        }
+      ]
+    },
+    {
+      "owner": "qxvo",
+      "visible_repo_count": 1,
+      "role": "MAILSIEVE / mail processing utility namespace",
+      "classification": "SMALL_UTILITY_ORG",
+      "source": "data/live/owners/qxvo.repos.json",
+      "repos": [
+        {
+          "name": "MAILSIEVE",
+          "nameWithOwner": "qxvo/MAILSIEVE",
+          "url": "https://github.com/qxvo/MAILSIEVE",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "Bounded, resumable CLI for discovering publicly listed business email addresses from domain lists.",
+          "createdAt": "2026-02-06T15:07:08Z",
+          "updatedAt": "2026-04-05T09:41:38Z",
+          "primaryLanguage": {
+            "name": "JavaScript"
+          },
+          "repositoryTopics": [
+            {
+              "name": "automation"
+            },
+            {
+              "name": "intake"
+            },
+            {
+              "name": "mail"
+            },
+            {
+              "name": "operators"
+            },
+            {
+              "name": "policy"
+            },
+            {
+              "name": "security"
+            },
+            {
+              "name": "triage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "owner": "qzro",
+      "visible_repo_count": 1,
+      "role": "ADJUTORIX / assistant-control utility namespace",
+      "classification": "SMALL_UTILITY_ORG",
+      "source": "data/live/owners/qzro.repos.json",
+      "repos": [
+        {
+          "name": "ADJUTORIX",
+          "nameWithOwner": "qzro/ADJUTORIX",
+          "url": "https://github.com/qzro/ADJUTORIX",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-01-30T20:45:19Z",
+          "updatedAt": "2026-06-01T12:14:33Z",
+          "primaryLanguage": {
+            "name": "TypeScript"
+          },
+          "repositoryTopics": []
+        }
+      ]
+    },
+    {
+      "owner": "aikido-bounty-lab",
+      "visible_repo_count": 1,
+      "role": "security bounty test lab",
+      "classification": "SECURITY_BOUNTY_LAB",
+      "source": "data/live/owners/aikido-bounty-lab.repos.json",
+      "repos": [
+        {
+          "name": "aikido-empty-test",
+          "nameWithOwner": "aikido-bounty-lab/aikido-empty-test",
+          "url": "https://github.com/aikido-bounty-lab/aikido-empty-test",
+          "visibility": "PUBLIC",
+          "isPrivate": false,
+          "description": "",
+          "createdAt": "2026-05-14T08:27:29Z",
+          "updatedAt": "2026-05-14T08:27:34Z",
+          "primaryLanguage": null,
+          "repositoryTopics": []
+        }
+      ]
+    },
+    {
+      "owner": "qvro",
+      "visible_repo_count": 0,
+      "role": "namespace holding or no visible repos",
+      "classification": "NAMESPACE_HOLDING",
+      "source": "data/live/owners/qvro.repos.json",
+      "repos": []
+    },
+    {
+      "owner": "qvru",
+      "visible_repo_count": 0,
+      "role": "namespace holding or no visible repos",
+      "classification": "NAMESPACE_HOLDING",
+      "source": "data/live/owners/qvru.repos.json",
+      "repos": []
+    },
+    {
+      "owner": "qxra",
+      "visible_repo_count": 0,
+      "role": "namespace holding or no visible repos",
+      "classification": "NAMESPACE_HOLDING",
+      "source": "data/live/owners/qxra.repos.json",
+      "repos": []
+    },
+    {
+      "owner": "qzru",
+      "visible_repo_count": 0,
+      "role": "namespace holding or no visible repos",
+      "classification": "NAMESPACE_HOLDING",
+      "source": "data/live/owners/qzru.repos.json",
+      "repos": []
+    }
+  ],
+  "register_hash": "a833312822676d652b1f3cf49ecf8e158e320a7650b57cfd70253adfa1a20b9b",
+  "register_id": "QXVI-OWNER-REGISTER-A833312822676D65"
+}

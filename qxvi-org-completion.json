@@ -1,8 +1,8 @@
 {
   "object_type": "QXVI_ORG_COMPLETION_OBJECT",
-  "version": "0.6.0",
-  "state": "QXVI_WHOLE_STACK_INTEGRITY_LOCKED",
-  "generated_at": "2026-06-20T05:42:28+00:00",
+  "version": "0.7.0",
+  "state": "QXVI_WHOLE_ALL_OWNER_STACK_REGISTERED",
+  "generated_at": "2026-06-20T06:12:11+00:00",
   "org": "https://github.com/qxvi",
   "public_only": true,
   "private_remaining": 0,
@@ -80,5 +80,9 @@
     "pages_publication": true,
     "release_receipt": true
   },
-  "whole_stack_integrity": "qxvi-whole-stack-integrity-lock.json"
+  "whole_stack_integrity": "qxvi-whole-stack-integrity-lock.json",
+  "whole_all_owner_stack": "qxvi-whole-all-owner-stack.json",
+  "owner_register": "midiakiasat-visible-owner-register.json",
+  "owner_count": 16,
+  "total_visible_repos": 105
 }
