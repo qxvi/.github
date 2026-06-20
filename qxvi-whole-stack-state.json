@@ -1,0 +1,72 @@
+{
+  "object_type": "QXVI_WHOLE_STACK_STATE",
+  "version": "0.5.0",
+  "state": "QXVI_WHOLE_STACK_EVIDENCE_BUNDLE_PROPAGATED",
+  "generated_at": "2026-06-20T05:35:22+00:00",
+  "public_only": true,
+  "private_remaining": 0,
+  "org": "https://github.com/qxvi",
+  "profile_repo": "https://github.com/qxvi/.github",
+  "primary_surface": "https://github.com/qxvi/BOUNDARYCAM",
+  "primary_pages": "https://qxvi.github.io/BOUNDARYCAM",
+  "primary_question": "What crossed the boundary?",
+  "boundarycam": {
+    "state": "BOUNDARYCAM_EVIDENCE_BUNDLE_CORE_OPEN",
+    "version": "0.6.0",
+    "repo": "https://github.com/qxvi/BOUNDARYCAM",
+    "pages": "https://qxvi.github.io/BOUNDARYCAM",
+    "manifest": "https://qxvi.github.io/BOUNDARYCAM/boundarycam-manifest.json",
+    "public_control": "https://qxvi.github.io/BOUNDARYCAM/public-control.json",
+    "completion": "https://qxvi.github.io/BOUNDARYCAM/boundarycam-completion.json",
+    "release": "https://github.com/qxvi/BOUNDARYCAM/releases/tag/boundarycam-v0.6.0-evidence-bundle-core",
+    "release_tag": "boundarycam-v0.6.0-evidence-bundle-core",
+    "verify_run": "https://github.com/qxvi/BOUNDARYCAM/actions/runs/27851264449",
+    "verify_conclusion": "success",
+    "runtime_core": true,
+    "evidence_bundle_core": true,
+    "cold_verification": true,
+    "tamper_detection": true,
+    "hash_chain": true,
+    "merkle_root": true
+  },
+  "stack_layers": [
+    {
+      "name": "qxvi",
+      "role": "visual and public interface layer",
+      "state": "QXVI_WHOLE_STACK_EVIDENCE_BUNDLE_PROPAGATED"
+    },
+    {
+      "name": "BOUNDARYCAM",
+      "role": "public audience, runtime capture, and evidence bundle inspection surface",
+      "state": "BOUNDARYCAM_EVIDENCE_BUNDLE_CORE_OPEN"
+    },
+    {
+      "name": "INVOCORDER",
+      "role": "machine-action evidence recorder",
+      "state": "external upstream recorder"
+    },
+    {
+      "name": "VERIFRAX",
+      "role": "verification and completion perimeter",
+      "state": "external verification perimeter"
+    },
+    {
+      "name": "SPEEDKIT",
+      "role": "public registry and control engine",
+      "state": "external registry/control engine"
+    }
+  ],
+  "closed_path": [
+    "public org control",
+    "public product surface",
+    "interactive boundary console",
+    "runtime Boundary Frame API",
+    "SQLite hash-chain store",
+    "runtime receipt",
+    "Evidence Bundle export",
+    "Merkle root",
+    "cold verification",
+    "tamper detection",
+    "public release receipt"
+  ]
+}
