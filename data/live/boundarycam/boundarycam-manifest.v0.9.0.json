@@ -1,0 +1,41 @@
+{
+  "object_type": "BOUNDARYCAM_PUBLIC_MANIFEST",
+  "version": "0.9.0",
+  "state": "BOUNDARYCAM_VERIFRAX_ADMISSIBILITY_ROUTE_OPEN",
+  "generated_at": "2026-06-20T07:20:03+00:00",
+  "name": "BOUNDARYCAM",
+  "tagline": "The camera for machine action.",
+  "primary_question": "What crossed the boundary?",
+  "repo": "https://github.com/qxvi/BOUNDARYCAM",
+  "pages": "https://qxvi.github.io/BOUNDARYCAM",
+  "capture": "https://qxvi.github.io/BOUNDARYCAM/pages/capture.html",
+  "frames": "https://qxvi.github.io/BOUNDARYCAM/pages/frames.html",
+  "stack": "https://qxvi.github.io/BOUNDARYCAM/pages/stack.html",
+  "about": "https://qxvi.github.io/BOUNDARYCAM/pages/about.html",
+  "completion_object": "boundarycam-completion.json",
+  "public_control": "public-control.json",
+  "schemas": [
+    "schemas/boundary-frame.schema.json",
+    "schemas/capture-event.schema.json",
+    "schemas/public-control.schema.json",
+    "schemas/boundarycam-completion.schema.json"
+  ],
+  "release_tag": "boundarycam-v0.9.0-verifrax-admissibility-route",
+  "public_only": true,
+  "private_remaining": 0,
+  "interactive_console": "https://qxvi.github.io/BOUNDARYCAM/pages/capture.html",
+  "runtime_core": {
+    "api": "boundarycam_runtime.api",
+    "cli": "boundarycam",
+    "sqlite_store": "runtime/boundarycam.sqlite3",
+    "hash_chain": true,
+    "docker": "Dockerfile"
+  },
+  "evidence_bundle_core": true,
+  "whole_stack_integrity": "boundarycam-whole-stack-integrity.json",
+  "checksum_index": "audit/boundarycam-whole-stack-checksums.json",
+  "invocorder_capture_route": "registry/invocorder-boundarycam-route.json",
+  "invocorder_capture_contract": "registry/contracts/invocorder-boundarycam-capture-contract.json",
+  "verifrax_admissibility_route": "registry/verifrax-boundarycam-admissibility-route.json",
+  "verifrax_admissibility_vocabulary": "registry/contracts/verifrax-boundarycam-admissibility-vocabulary.json"
+}
