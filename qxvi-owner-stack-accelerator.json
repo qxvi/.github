@@ -2,7 +2,7 @@
   "object_type": "QXVI_OWNER_STACK_ACCELERATOR",
   "version": "0.8.0",
   "state": "QXVI_OWNER_STACK_ACCELERATOR_ARMED",
-  "generated_at": "2026-06-20T06:22:07+00:00",
+  "generated_at": "2026-06-20T06:26:39+00:00",
   "public_only": true,
   "source_register": "midiakiasat-visible-owner-register.json",
   "source_register_hash": "a833312822676d652b1f3cf49ecf8e158e320a7650b57cfd70253adfa1a20b9b",
@@ -346,6 +346,6 @@
       "meaning": "Use INVOCORDER for capture, VERIFRAX for admissibility/replay, BOUNDARYCAM for public inspection, VATFix as commercial vertical template."
     }
   ],
-  "accelerator_hash": "a6bf8a134b4b48ab5bf7cb8be07c50a98180a0fabd040b703f9ad7cd8c1fd06f",
-  "accelerator_id": "QXVI-ACCELERATOR-A6BF8A134B4B48AB"
+  "accelerator_hash": "411b9d765fa3fcefec1bbda0897fec6d5bf7596e24bd0f70ae2377b4cc31dab9",
+  "accelerator_id": "QXVI-ACCELERATOR-411B9D765FA3FCEF"
 }

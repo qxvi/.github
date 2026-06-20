@@ -6,8 +6,8 @@ This converts the owner register from noise into operating power.
 
 Rule: repo count is not value. Typed role, executable surface, CI, release, evidence boundary, and cross-stack reuse are value.
 
-Accelerator id: QXVI-ACCELERATOR-A6BF8A134B4B48AB
-Accelerator hash: a6bf8a134b4b48ab5bf7cb8be07c50a98180a0fabd040b703f9ad7cd8c1fd06f
+Accelerator id: QXVI-ACCELERATOR-411B9D765FA3FCEF
+Accelerator hash: 411b9d765fa3fcefec1bbda0897fec6d5bf7596e24bd0f70ae2377b4cc31dab9
 
 ## Power lanes
 
