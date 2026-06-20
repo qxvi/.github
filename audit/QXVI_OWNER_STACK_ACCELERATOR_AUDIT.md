@@ -1,0 +1,22 @@
+# QXVI Owner Stack Accelerator Audit
+
+Generated: 2026-06-20T06:22:07+00:00
+
+QXVI_OWNER_STACK_ACCELERATOR_ARMED=true
+ACCELERATOR_ID=QXVI-ACCELERATOR-A6BF8A134B4B48AB
+ACCELERATOR_HASH=a6bf8a134b4b48ab5bf7cb8be07c50a98180a0fabd040b703f9ad7cd8c1fd06f
+TOTAL_VISIBLE_REPOS=105
+
+Priority order:
+- Verifrax
+- INVOCORDER
+- qxvi
+- VATFix
+- qvra
+- TRUTHFRAMER
+- ANTIMATTERIUM
+- kaaffilm
+- CINEMATICUM
+- qxvo
+- qzro
+- aikido-bounty-lab

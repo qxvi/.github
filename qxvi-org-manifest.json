@@ -1,7 +1,7 @@
 {
   "object_type": "QXVI_ORG_PUBLIC_MANIFEST",
-  "version": "0.7.0",
-  "generated_at": "2026-06-20T06:12:11+00:00",
+  "version": "0.8.0",
+  "generated_at": "2026-06-20T06:22:07+00:00",
   "org": "https://github.com/qxvi",
   "repositories_url": "https://github.com/orgs/qxvi/repositories",
   "repositories": [
@@ -10,8 +10,8 @@
   ],
   "primary_surface": "https://qxvi.github.io/BOUNDARYCAM",
   "primary_release": "https://github.com/qxvi/BOUNDARYCAM/releases/tag/boundarycam-v0.7.0-whole-stack-integrity-lock",
-  "profile_release_tag": "qxvi-org-profile-v0.7.0-whole-all-owner-stack-register",
-  "state": "QXVI_WHOLE_ALL_OWNER_STACK_REGISTERED",
+  "profile_release_tag": "qxvi-org-profile-v0.8.0-owner-stack-accelerator",
+  "state": "QXVI_OWNER_STACK_ACCELERATOR_ARMED",
   "public_only": true,
   "private_remaining": 0,
   "repo_count": 2,
@@ -25,5 +25,8 @@
   "whole_stack_integrity": "qxvi-whole-stack-integrity-lock.json",
   "whole_all_owner_stack": "qxvi-whole-all-owner-stack.json",
   "owner_register": "midiakiasat-visible-owner-register.json",
-  "register_hash": "a833312822676d652b1f3cf49ecf8e158e320a7650b57cfd70253adfa1a20b9b"
+  "register_hash": "a833312822676d652b1f3cf49ecf8e158e320a7650b57cfd70253adfa1a20b9b",
+  "owner_stack_accelerator": "qxvi-owner-stack-accelerator.json",
+  "accelerator_id": "QXVI-ACCELERATOR-A6BF8A134B4B48AB",
+  "accelerator_hash": "a6bf8a134b4b48ab5bf7cb8be07c50a98180a0fabd040b703f9ad7cd8c1fd06f"
 }

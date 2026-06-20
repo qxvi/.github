@@ -1,0 +1,351 @@
+{
+  "object_type": "QXVI_OWNER_STACK_ACCELERATOR",
+  "version": "0.8.0",
+  "state": "QXVI_OWNER_STACK_ACCELERATOR_ARMED",
+  "generated_at": "2026-06-20T06:22:07+00:00",
+  "public_only": true,
+  "source_register": "midiakiasat-visible-owner-register.json",
+  "source_register_hash": "a833312822676d652b1f3cf49ecf8e158e320a7650b57cfd70253adfa1a20b9b",
+  "owner_count": 16,
+  "total_visible_repos": 105,
+  "purpose": "Use the owner orgs as operational acceleration lanes, not as noise.",
+  "operating_rule": "Every owner must be typed by what it powers, what it accelerates, and what it must not pretend to be.",
+  "lanes": [
+    {
+      "lane": "constitutional_verification_power",
+      "owner": "Verifrax",
+      "visible_repos": 37,
+      "use_as": "authority, admissibility, replay, verification, constitutional perimeter",
+      "accelerates": [
+        "all evidence stacks",
+        "all public claims",
+        "all runtime closure"
+      ],
+      "activation": "type every qxvi/BOUNDARYCAM claim against Verifrax-style admissibility, execution, replay, authority, and recourse boundaries",
+      "repos": [
+        "Verifrax/.github",
+        "Verifrax/ADMISSORIUM",
+        "Verifrax/ANAGNORIUM",
+        "Verifrax/apply",
+        "Verifrax/archicustos",
+        "Verifrax/ARCHITECTURE",
+        "Verifrax/attestorium",
+        "Verifrax/AUCTORISEAL",
+        "Verifrax/cicullis",
+        "Verifrax/CONSONORIUM",
+        "Verifrax/CORPIFORM",
+        "Verifrax/guillotine",
+        "Verifrax/irrevocull",
+        "Verifrax/kairoclasp",
+        "Verifrax/limenward",
+        "Verifrax/ORBISTIUM",
+        "Verifrax/originseal",
+        "Verifrax/proof",
+        "Verifrax/REGRESSORIUM",
+        "Verifrax/SIGILLARIUM",
+        "Verifrax/SPEEDKIT",
+        "Verifrax/SYNTAGMARIUM",
+        "Verifrax/TACHYRIUM",
+        "Verifrax/validexor",
+        "Verifrax/VERIFRAX",
+        "Verifrax/VERIFRAX-API",
+        "Verifrax/VERIFRAX-CONTROL-VERIFY",
+        "Verifrax/VERIFRAX-DOCS",
+        "Verifrax/verifrax-marketplace-smoke",
+        "Verifrax/VERIFRAX-PROFILES",
+        "Verifrax/VERIFRAX-PY",
+        "Verifrax/VERIFRAX-SAMPLES",
+        "Verifrax/VERIFRAX-SPEC",
+        "Verifrax/VERIFRAX-STATUS",
+        "Verifrax/VERIFRAX-SURFACE",
+        "Verifrax/VERIFRAX-verify",
+        "Verifrax/VERIFRAX-WWW"
+      ]
+    },
+    {
+      "lane": "tax_compliance_product_power",
+      "owner": "VATFix",
+      "visible_repos": 28,
+      "use_as": "commercial vertical proof that the evidence-control architecture can become a concrete product stack",
+      "accelerates": [
+        "enterprise packaging",
+        "compliance UI",
+        "audit evidence monetization",
+        "regulated workflow design"
+      ],
+      "activation": "use VATFix as the vertical template for future BOUNDARYCAM evidence products: registry, rules, adapters, SDKs, replay, legal, ops, security",
+      "repos": [
+        "VATFix/CONSOLE",
+        "VATFix/LEGAL",
+        "VATFix/OPS",
+        "VATFix/REGISTRY",
+        "VATFix/REPLAY",
+        "VATFix/SECTORS",
+        "VATFix/SECURITY",
+        "VATFix/TELEMETRY",
+        "VATFix/VATFIX",
+        "VATFix/vatfix-action",
+        "VATFix/vatfix-attestations",
+        "VATFix/vatfix-audit-log-spec",
+        "VATFix/vatfix-evidence-model",
+        "VATFix/vatfix-fallback-adapter",
+        "VATFix/vatfix-intrastat",
+        "VATFix/vatfix-invoice",
+        "VATFix/VATFix-Master",
+        "VATFix/vatfix-oss",
+        "VATFix/VATFix-Plus",
+        "VATFix/vatfix-postman",
+        "VATFix/vatfix-rules-eu",
+        "VATFix/vatfix-sdk-js",
+        "VATFix/vatfix-sdk-python",
+        "VATFix/vatfix-sepa",
+        "VATFix/vatfix-vies-adapter",
+        "VATFix/vatfix-xml",
+        "VATFix/vatfix-zapier",
+        "VATFix/vatfix.eu"
+      ]
+    },
+    {
+      "lane": "machine_action_recorder_power",
+      "owner": "INVOCORDER",
+      "visible_repos": 6,
+      "use_as": "machine-action capture and evidence schema source",
+      "accelerates": [
+        "BOUNDARYCAM runtime capture",
+        "Evidence Bundle schema discipline",
+        "agent/action logging"
+      ],
+      "activation": "treat INVOCORDER as upstream recorder and BOUNDARYCAM as public inspection camera",
+      "repos": [
+        "INVOCORDER/.github",
+        "INVOCORDER/CAPTURE-CONTRACT",
+        "INVOCORDER/EVIDENCE-SCHEMAS",
+        "INVOCORDER/HOSTILE-FIXTURES",
+        "INVOCORDER/INTEGRATIONS",
+        "INVOCORDER/INVOCORDER"
+      ]
+    },
+    {
+      "lane": "boundary_camera_public_power",
+      "owner": "qxvi",
+      "visible_repos": 2,
+      "use_as": "public control surface and boundary camera",
+      "accelerates": [
+        "visual inspection",
+        "public release receipts",
+        "owner-stack register",
+        "integrity locks"
+      ],
+      "activation": "keep qxvi as the public command plane for registering, binding, and projecting the owner stack",
+      "repos": [
+        "qxvi/.github",
+        "qxvi/BOUNDARYCAM"
+      ]
+    },
+    {
+      "lane": "micro_runtime_lab_power",
+      "owner": "qvra",
+      "visible_repos": 12,
+      "use_as": "modular micro-stack lab and runtime sandbox",
+      "accelerates": [
+        "experiments",
+        "runtime prototypes",
+        "benchmarks",
+        "launch/test surfaces"
+      ],
+      "activation": "use qvra for smaller executable pieces before promoting them into product stacks",
+      "repos": [
+        "qvra/bench",
+        "qvra/core",
+        "qvra/index",
+        "qvra/kit",
+        "qvra/lab",
+        "qvra/launch",
+        "qvra/meta",
+        "qvra/pulse",
+        "qvra/qvra",
+        "qvra/run",
+        "qvra/show",
+        "qvra/site"
+      ]
+    },
+    {
+      "lane": "cinematic_jurisdiction_power",
+      "owner": "kaaffilm",
+      "visible_repos": 11,
+      "use_as": "film and cinematic authority workspace",
+      "accelerates": [
+        "CINEMATICUM doctrine",
+        "motion-picture issuance",
+        "audience body plus evidentiary body"
+      ],
+      "activation": "resolve canonicality between kaaffilm/CINEMATICUM and CINEMATICUM/CINEMATICUM, then use it as the cinematic jurisdiction branch",
+      "repos": [
+        "kaaffilm/.github",
+        "kaaffilm/amplify-next-template",
+        "kaaffilm/cinelint",
+        "kaaffilm/CINEMATICUM",
+        "kaaffilm/demo-repository",
+        "kaaffilm/flowbuilder-pro",
+        "kaaffilm/july-tower-shell",
+        "kaaffilm/kaaffilm-pulse",
+        "kaaffilm/MK10-PRO",
+        "kaaffilm/quickdcp",
+        "kaaffilm/vault-loop-kit"
+      ]
+    },
+    {
+      "lane": "dedicated_cinematic_org_power",
+      "owner": "CINEMATICUM",
+      "visible_repos": 1,
+      "use_as": "dedicated cinematic jurisdiction org shell",
+      "accelerates": [
+        "public cinematic identity",
+        "jurisdiction separation",
+        "canonical repo promotion"
+      ],
+      "activation": "declare whether CINEMATICUM/CINEMATICUM is primary, mirror, or public jurisdiction root",
+      "repos": [
+        "CINEMATICUM/CINEMATICUM"
+      ]
+    },
+    {
+      "lane": "research_narrative_evidence_power",
+      "owner": "ANTIMATTERIUM",
+      "visible_repos": 3,
+      "use_as": "research/narrative evidence layer for extreme technical claims",
+      "accelerates": [
+        "public science narrative",
+        "custody/economics framing",
+        "mission architecture evidence"
+      ],
+      "activation": "use ANTIMATTERIUM as the pattern for serious public scientific evidence packages",
+      "repos": [
+        "ANTIMATTERIUM/.github",
+        "ANTIMATTERIUM/ANTIMATTERIUM",
+        "ANTIMATTERIUM/WWW"
+      ]
+    },
+    {
+      "lane": "truth_capsule_power",
+      "owner": "TRUTHFRAMER",
+      "visible_repos": 2,
+      "use_as": "truth framing, capsule, and platform control layer",
+      "accelerates": [
+        "claim packaging",
+        "capsule digest discipline",
+        "public interpretability"
+      ],
+      "activation": "use TRUTHFRAMER to frame what the evidence means without pretending it is the evidence source",
+      "repos": [
+        "TRUTHFRAMER/.github",
+        "TRUTHFRAMER/truthframer-platform"
+      ]
+    },
+    {
+      "lane": "utility_edge_power",
+      "owner": "qxvo",
+      "visible_repos": 1,
+      "use_as": "MAILSIEVE email-processing utility namespace",
+      "accelerates": [
+        "mail/event ingestion",
+        "workflow intake",
+        "message boundary capture"
+      ],
+      "activation": "treat qxvo as an intake utility branch, not a constitutional stack",
+      "repos": [
+        "qxvo/MAILSIEVE"
+      ]
+    },
+    {
+      "lane": "assistant_edge_power",
+      "owner": "qzro",
+      "visible_repos": 1,
+      "use_as": "ADJUTORIX assistant/control utility namespace",
+      "accelerates": [
+        "helper automation",
+        "control agents",
+        "workflow support"
+      ],
+      "activation": "use qzro for assistant utilities that feed evidence records into stronger stacks",
+      "repos": [
+        "qzro/ADJUTORIX"
+      ]
+    },
+    {
+      "lane": "security_lab_power",
+      "owner": "aikido-bounty-lab",
+      "visible_repos": 1,
+      "use_as": "bounty/security test lab",
+      "accelerates": [
+        "hostile testing",
+        "security posture",
+        "adversarial fixtures"
+      ],
+      "activation": "keep it as security lab, not production proof",
+      "repos": [
+        "aikido-bounty-lab/aikido-empty-test"
+      ]
+    }
+  ],
+  "namespace_holdings": [
+    {
+      "owner": "qvro",
+      "visible_repos": 0,
+      "use_as": "namespace reserve / future branch / no-current-visible-production lane",
+      "activation": "do not create noise; activate only when a real product, protocol, or utility role exists"
+    },
+    {
+      "owner": "qvru",
+      "visible_repos": 0,
+      "use_as": "namespace reserve / future branch / no-current-visible-production lane",
+      "activation": "do not create noise; activate only when a real product, protocol, or utility role exists"
+    },
+    {
+      "owner": "qxra",
+      "visible_repos": 0,
+      "use_as": "namespace reserve / future branch / no-current-visible-production lane",
+      "activation": "do not create noise; activate only when a real product, protocol, or utility role exists"
+    },
+    {
+      "owner": "qzru",
+      "visible_repos": 0,
+      "use_as": "namespace reserve / future branch / no-current-visible-production lane",
+      "activation": "do not create noise; activate only when a real product, protocol, or utility role exists"
+    }
+  ],
+  "priority_order": [
+    "Verifrax",
+    "INVOCORDER",
+    "qxvi",
+    "VATFix",
+    "qvra",
+    "TRUTHFRAMER",
+    "ANTIMATTERIUM",
+    "kaaffilm",
+    "CINEMATICUM",
+    "qxvo",
+    "qzro",
+    "aikido-bounty-lab"
+  ],
+  "next_power_moves": [
+    {
+      "move": "OWNER_ROLE_BOUNDARY_LOCK",
+      "meaning": "Declare every owner as authority, recorder, public surface, product vertical, lab, narrative layer, cinematic jurisdiction, utility, security lab, or namespace holding."
+    },
+    {
+      "move": "NOISE_REDUCTION",
+      "meaning": "Stop treating repo count as value. Treat typed role, executable surface, CI, release, and evidence boundary as value."
+    },
+    {
+      "move": "PROMOTION_RULE",
+      "meaning": "A repo graduates only when it has role, object, schema, validation, CI, release, and public control link."
+    },
+    {
+      "move": "CROSS_STACK_POWER",
+      "meaning": "Use INVOCORDER for capture, VERIFRAX for admissibility/replay, BOUNDARYCAM for public inspection, VATFix as commercial vertical template."
+    }
+  ],
+  "accelerator_hash": "a6bf8a134b4b48ab5bf7cb8be07c50a98180a0fabd040b703f9ad7cd8c1fd06f",
+  "accelerator_id": "QXVI-ACCELERATOR-A6BF8A134B4B48AB"
+}
