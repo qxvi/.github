@@ -1,7 +1,7 @@
 {
   "object_type": "QXVI_ORG_PUBLIC_MANIFEST",
-  "version": "0.5.0",
-  "generated_at": "2026-06-20T05:35:22+00:00",
+  "version": "0.6.0",
+  "generated_at": "2026-06-20T05:42:28+00:00",
   "org": "https://github.com/qxvi",
   "repositories_url": "https://github.com/orgs/qxvi/repositories",
   "repositories": [
@@ -9,9 +9,9 @@
     "https://github.com/qxvi/BOUNDARYCAM"
   ],
   "primary_surface": "https://qxvi.github.io/BOUNDARYCAM",
-  "primary_release": "https://github.com/qxvi/BOUNDARYCAM/releases/tag/boundarycam-v0.6.0-evidence-bundle-core",
-  "profile_release_tag": "qxvi-org-profile-v0.5.0-whole-stack-evidence-bundle-propagation",
-  "state": "QXVI_WHOLE_STACK_EVIDENCE_BUNDLE_PROPAGATED",
+  "primary_release": "https://github.com/qxvi/BOUNDARYCAM/releases/tag/boundarycam-v0.7.0-whole-stack-integrity-lock",
+  "profile_release_tag": "qxvi-org-profile-v0.6.0-whole-stack-integrity-lock",
+  "state": "QXVI_WHOLE_STACK_INTEGRITY_LOCKED",
   "public_only": true,
   "private_remaining": 0,
   "repo_count": 2,
@@ -21,5 +21,6 @@
   "boundarycam_completion": "https://qxvi.github.io/BOUNDARYCAM/boundarycam-completion.json",
   "completion_propagation_object": "qxvi-boundarycam-completion-propagation.json",
   "whole_stack_state": "qxvi-whole-stack-state.json",
-  "boundarycam_evidence_bundle_core": true
+  "boundarycam_evidence_bundle_core": true,
+  "whole_stack_integrity": "qxvi-whole-stack-integrity-lock.json"
 }
