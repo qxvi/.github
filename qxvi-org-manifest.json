@@ -1,7 +1,7 @@
 {
   "object_type": "QXVI_ORG_PUBLIC_MANIFEST",
-  "version": "0.9.0",
-  "generated_at": "2026-06-20T06:33:38+00:00",
+  "version": "1.0.0",
+  "generated_at": "2026-06-20T06:50:09+00:00",
   "org": "https://github.com/qxvi",
   "repositories_url": "https://github.com/orgs/qxvi/repositories",
   "repositories": [
@@ -10,8 +10,8 @@
   ],
   "primary_surface": "https://qxvi.github.io/BOUNDARYCAM",
   "primary_release": "https://github.com/qxvi/BOUNDARYCAM/releases/tag/boundarycam-v0.7.0-whole-stack-integrity-lock",
-  "profile_release_tag": "qxvi-org-profile-v0.9.0-owner-stack-power-router",
-  "state": "QXVI_OWNER_STACK_POWER_ROUTER_LIVE",
+  "profile_release_tag": "qxvi-org-profile-v1.0.0-route-one-executed",
+  "state": "QXVI_ROUTE_ONE_INVOCORDER_BOUNDARYCAM_EXECUTED",
   "public_only": true,
   "private_remaining": 0,
   "repo_count": 2,
@@ -32,5 +32,8 @@
   "owner_stack_power_router": "qxvi-owner-stack-power-router.json",
   "power_route_registry": "registry/qxvi-power-route-registry.json",
   "router_id": "QXVI-POWER-ROUTER-972B1FC0F16F9E5D",
-  "router_hash": "972b1fc0f16f9e5d927d8370c5ef73998cd0e6f4ace87a8d588550649ea1eebf"
+  "router_hash": "972b1fc0f16f9e5d927d8370c5ef73998cd0e6f4ace87a8d588550649ea1eebf",
+  "route_one_execution": "qxvi-route-one-invocorder-boundarycam.json",
+  "execution_id": "QXVI-ROUTE-ONE-764F848A47CA7A23",
+  "execution_hash": "764f848a47ca7a237a5d29a8f68d506a97105db03d42e6cb40e4821addeb9776"
 }

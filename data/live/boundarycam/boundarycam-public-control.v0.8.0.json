@@ -1,0 +1,49 @@
+{
+  "object_type": "BOUNDARYCAM_PUBLIC_CONTROL",
+  "version": "0.8.0",
+  "state": "BOUNDARYCAM_INVOCORDER_CAPTURE_ROUTE_OPEN",
+  "generated_at": "2026-06-20T06:49:39+00:00",
+  "product": "BOUNDARYCAM",
+  "public_only": true,
+  "private_remaining": 0,
+  "primary_question": "What crossed the boundary?",
+  "surface_role": "public machine-action boundary camera",
+  "admissibility_boundary": {
+    "can_show": [
+      "public boundary frame structure",
+      "public capture route",
+      "public frame examples",
+      "public schema",
+      "public manifest",
+      "public control state"
+    ],
+    "cannot_claim": [
+      "private evidence possession",
+      "final legal proof",
+      "external system completion beyond declared surface",
+      "runtime enforcement unless wired to a runtime system"
+    ]
+  },
+  "stack_relation": {
+    "qxvi": "visual and public interface layer",
+    "BOUNDARYCAM": "public audience and inspection surface",
+    "INVOCORDER": "machine-action evidence recorder",
+    "VERIFRAX": "verification and completion perimeter",
+    "SPEEDKIT": "public registry and control engine"
+  },
+  "completion_object": "boundarycam-completion.json",
+  "interactive_console": true,
+  "browser_side_frame_builder": true,
+  "runtime_core": true,
+  "hash_chained_frames": true,
+  "sqlite_persistence": true,
+  "api_server": true,
+  "cli": true,
+  "docker": true,
+  "evidence_bundle_core": true,
+  "release_tag": "boundarycam-v0.8.0-invocorder-capture-route",
+  "whole_stack_integrity_locked": true,
+  "checksum_audit": true,
+  "invocorder_capture_route_open": true,
+  "invocorder_capture_contract": "registry/contracts/invocorder-boundarycam-capture-contract.json"
+}

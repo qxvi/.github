@@ -1,0 +1,38 @@
+{
+  "object_type": "QXVI_ROUTE_EXECUTION",
+  "version": "1.0.0",
+  "state": "QXVI_ROUTE_ONE_INVOCORDER_BOUNDARYCAM_EXECUTED",
+  "generated_at": "2026-06-20T06:50:09+00:00",
+  "route_number": 1,
+  "route_id": "ROUTE-001-INVOCORDER-BOUNDARYCAM",
+  "route": "INVOCORDER -> BOUNDARYCAM",
+  "meaning": "machine-action recorder power is now wired into public boundary inspection power",
+  "upstream": {
+    "owner": "INVOCORDER",
+    "role": "machine-action evidence recorder"
+  },
+  "downstream": {
+    "owner": "qxvi",
+    "repo": "BOUNDARYCAM",
+    "role": "public boundary inspection surface"
+  },
+  "boundarycam": {
+    "version": "0.8.0",
+    "state": "BOUNDARYCAM_INVOCORDER_CAPTURE_ROUTE_OPEN",
+    "release": "https://github.com/qxvi/BOUNDARYCAM/releases/tag/boundarycam-v0.8.0-invocorder-capture-route",
+    "release_tag": "boundarycam-v0.8.0-invocorder-capture-route",
+    "verify_run": "https://github.com/qxvi/BOUNDARYCAM/actions/runs/27863372899",
+    "verify_conclusion": "success",
+    "route_object": "https://github.com/qxvi/BOUNDARYCAM/blob/main/registry/invocorder-boundarycam-route.json",
+    "contract": "https://github.com/qxvi/BOUNDARYCAM/blob/main/registry/contracts/invocorder-boundarycam-capture-contract.json"
+  },
+  "power_router_next_state": "ROUTE_ONE_EXECUTED",
+  "next_routes": [
+    "Verifrax admissibility vocabulary into BOUNDARYCAM bundle verification",
+    "VATFix commercial packaging template",
+    "qvra promotion rule",
+    "CINEMATICUM canonicality resolution"
+  ],
+  "execution_hash": "764f848a47ca7a237a5d29a8f68d506a97105db03d42e6cb40e4821addeb9776",
+  "execution_id": "QXVI-ROUTE-ONE-764F848A47CA7A23"
+}
