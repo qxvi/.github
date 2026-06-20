@@ -1,0 +1,98 @@
+{
+  "object_type": "QXVI_POWER_ROUTE_REGISTRY",
+  "version": "0.9.0",
+  "state": "QXVI_OWNER_STACK_POWER_ROUTER_LIVE",
+  "generated_at": "2026-06-20T06:33:38+00:00",
+  "router": "qxvi-owner-stack-power-router.json",
+  "router_id": "QXVI-POWER-ROUTER-972B1FC0F16F9E5D",
+  "router_hash": "972b1fc0f16f9e5d927d8370c5ef73998cd0e6f4ace87a8d588550649ea1eebf",
+  "routes": [
+    {
+      "output": "public evidence product",
+      "power_sources": [
+        "INVOCORDER",
+        "Verifrax",
+        "qxvi",
+        "BOUNDARYCAM"
+      ],
+      "route": "INVOCORDER captures machine-action facts -> Verifrax types admissibility/replay/authority -> BOUNDARYCAM exposes public boundary inspection -> qxvi records org-level receipt",
+      "next_artifact": "cross_stack_capture_to_public_inspection_contract"
+    },
+    {
+      "output": "commercial compliance product",
+      "power_sources": [
+        "VATFix",
+        "Verifrax",
+        "INVOCORDER",
+        "qxvi"
+      ],
+      "route": "VATFix supplies commercial vertical structure -> Verifrax supplies admissibility perimeter -> INVOCORDER records actions -> qxvi publishes control receipt",
+      "next_artifact": "regulated_vertical_evidence_product_template"
+    },
+    {
+      "output": "fast prototype",
+      "power_sources": [
+        "qvra",
+        "qxvo",
+        "qzro",
+        "aikido-bounty-lab"
+      ],
+      "route": "qvra builds micro-runtime -> qxvo/qzro feed utility events -> aikido-bounty-lab attacks assumptions -> promotion only after tests and release",
+      "next_artifact": "micro_stack_promotion_rule"
+    },
+    {
+      "output": "truth/capsule interpretation",
+      "power_sources": [
+        "TRUTHFRAMER",
+        "Verifrax",
+        "qxvi"
+      ],
+      "route": "TRUTHFRAMER frames meaning -> Verifrax limits admissibility claims -> qxvi publishes public control boundary",
+      "next_artifact": "truth_capsule_boundary_contract"
+    },
+    {
+      "output": "cinematic jurisdiction package",
+      "power_sources": [
+        "kaaffilm",
+        "CINEMATICUM",
+        "TRUTHFRAMER",
+        "Verifrax"
+      ],
+      "route": "kaaffilm/CINEMATICUM defines cinematic jurisdiction -> TRUTHFRAMER frames audience meaning -> Verifrax prevents overclaiming -> qxvi publishes canonicality decision",
+      "next_artifact": "cinematicum_canonicality_resolution"
+    },
+    {
+      "output": "research narrative evidence package",
+      "power_sources": [
+        "ANTIMATTERIUM",
+        "TRUTHFRAMER",
+        "Verifrax",
+        "qxvi"
+      ],
+      "route": "ANTIMATTERIUM packages extreme research narrative -> TRUTHFRAMER frames claims -> Verifrax limits evidence authority -> qxvi records public register",
+      "next_artifact": "research_evidence_public_packaging_rule"
+    }
+  ],
+  "promotion_gate": {
+    "a_repo_is_noise_until_it_has": [
+      "typed role",
+      "declared object",
+      "schema or contract",
+      "validator",
+      "CI check",
+      "release receipt",
+      "public control link",
+      "clear upstream/downstream lane"
+    ],
+    "promotion_states": [
+      "namespace",
+      "lab",
+      "utility",
+      "runtime",
+      "product",
+      "public control surface",
+      "verification perimeter",
+      "constitutional stack"
+    ]
+  }
+}

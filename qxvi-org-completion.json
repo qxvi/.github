@@ -1,8 +1,8 @@
 {
   "object_type": "QXVI_ORG_COMPLETION_OBJECT",
-  "version": "0.8.0",
-  "state": "QXVI_OWNER_STACK_ACCELERATOR_ARMED",
-  "generated_at": "2026-06-20T06:26:39+00:00",
+  "version": "0.9.0",
+  "state": "QXVI_OWNER_STACK_POWER_ROUTER_LIVE",
+  "generated_at": "2026-06-20T06:33:38+00:00",
   "org": "https://github.com/qxvi",
   "public_only": true,
   "private_remaining": 0,
@@ -87,5 +87,9 @@
   "total_visible_repos": 105,
   "owner_stack_accelerator": "qxvi-owner-stack-accelerator.json",
   "accelerator_id": "QXVI-ACCELERATOR-411B9D765FA3FCEF",
-  "accelerator_hash": "411b9d765fa3fcefec1bbda0897fec6d5bf7596e24bd0f70ae2377b4cc31dab9"
+  "accelerator_hash": "411b9d765fa3fcefec1bbda0897fec6d5bf7596e24bd0f70ae2377b4cc31dab9",
+  "owner_stack_power_router": "qxvi-owner-stack-power-router.json",
+  "power_route_registry": "registry/qxvi-power-route-registry.json",
+  "router_id": "QXVI-POWER-ROUTER-972B1FC0F16F9E5D",
+  "router_hash": "972b1fc0f16f9e5d927d8370c5ef73998cd0e6f4ace87a8d588550649ea1eebf"
 }
